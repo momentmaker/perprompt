@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Per Prompt - Weekly LLV, GPT, AI Digests</title>
-    <link>https://perprompt.netlify.app/categories/</link>
+    <link>https://perprompt.com/categories/</link>
     <description>Recent content in Categories on Per Prompt - Weekly LLV, GPT, AI Digests</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://perprompt.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://perprompt.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

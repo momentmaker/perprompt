@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Per Prompt - Weekly LLV, GPT, AI Digests</title>
-    <link>https://perprompt.netlify.app/tags/</link>
+    <link>https://perprompt.com/tags/</link>
     <description>Recent content in Tags on Per Prompt - Weekly LLV, GPT, AI Digests</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>agentgpt</title>
-      <link>https://perprompt.netlify.app/tags/agentgpt/</link>
+      <link>https://perprompt.com/tags/agentgpt/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://perprompt.netlify.app/tags/agentgpt/</guid>
+      <guid>https://perprompt.com/tags/agentgpt/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>autogpt</title>
-      <link>https://perprompt.netlify.app/tags/autogpt/</link>
+      <link>https://perprompt.com/tags/autogpt/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://perprompt.netlify.app/tags/autogpt/</guid>
+      <guid>https://perprompt.com/tags/autogpt/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>prompt-engineering</title>
-      <link>https://perprompt.netlify.app/tags/prompt-engineering/</link>
+      <link>https://perprompt.com/tags/prompt-engineering/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://perprompt.netlify.app/tags/prompt-engineering/</guid>
+      <guid>https://perprompt.com/tags/prompt-engineering/</guid>
       <description></description>
       <content></content>
     </item>

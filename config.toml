@@ -1,4 +1,4 @@
-baseURL = 'https://perprompt.netlify.app/'
+baseURL = 'https://perprompt.com/'
 languageCode = 'en-us'
 title = 'Per Prompt - Weekly LLV, GPT, AI Digests'
 subtitle = 'Weekly digest of interesting news and tool about LLM, GPT and AI.'
