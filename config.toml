@@ -53,10 +53,12 @@ keywords = 'llm,gpt,chatgpt,ai,tech'
   # set title for the table of contents
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
+  images = ['logo.png']
 
 [params.twitter]
   creator = "per_prompt"
   site = "per_prompt"
+  image = "https://perprompt.com/logo.png"
 
 [languages]
   [languages.en]
