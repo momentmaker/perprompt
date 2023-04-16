@@ -2,6 +2,7 @@
 title: "Per Prompt"
 description: "Weekly digest of interesting LLM and GPT news, tool and misc tech."
 framed: true
+images: ["/logo.png"]
 ---
 
 # Welcome to Per Prompt
