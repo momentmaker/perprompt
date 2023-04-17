@@ -18,6 +18,7 @@ enableRobotsTXT = true
   favicon = "favicon.ico"
   readingTime = true
   images = ['logo.png']
+  subtitle = 'Weekly digest of interesting news and tool about LLM, GPT & AI'
 
 [params.twitter]
   creator = "per_prompt"
