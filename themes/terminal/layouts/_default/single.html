@@ -67,6 +67,7 @@
   {{ end }}
 
   {{ if not (.Params.hideComments | default false) }}
+  <hr>
   {{ partial "comments.html" . }}
   {{ end }}
 </article>
