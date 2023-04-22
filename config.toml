@@ -21,6 +21,19 @@ enableEmoji = true
   images = ['logo.png']
   subtitle = 'Weekly digest of interesting news and tool about LLM, GPT & AI'
 
+[params.giscus]
+  repo = "momentmaker/perprompt"
+  repoID = "R_kgDOJXluAQ"
+  category = "Posts"
+  categoryID = "DIC_kwDOJXluAc4CV6Ac"
+  mapping = "og:title"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = "dark"
+  lang = "en"
+  loading = "lazy"
+
 [params.twitter]
   creator = "per_prompt"
   site = "per_prompt"
