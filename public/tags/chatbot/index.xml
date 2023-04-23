@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>autogpt on Per Prompt - Weekly LLV, GPT, AI Digests</title>
-    <link>https://perprompt.com/tags/autogpt/</link>
-    <description>Recent content in autogpt on Per Prompt - Weekly LLV, GPT, AI Digests</description>
+    <title>chatbot on Per Prompt - Weekly LLV, GPT, AI Digests</title>
+    <link>https://perprompt.com/tags/chatbot/</link>
+    <description>Recent content in chatbot on Per Prompt - Weekly LLV, GPT, AI Digests</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/tags/autogpt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 16 - 2023</title>
       <link>https://perprompt.com/posts/w16-2023/</link>
@@ -165,62 +165,6 @@ GEPL - Generate, Evaluate, Print, Loop Link to this section Introduction The Lis
  - Today we’re launching Forefront chat—a better ChatGPT experience—in free alpha. Sign up to get free access to GPT-4, image generation, custom personas, shareable chats, and much more: &lt;a href=&#34;http://chat.forefront.ai&#34;&gt;http://chat.forefront.ai&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://thegeneralist.substack.com/p/the-history-of-ai&#34;&gt;The History of AI in 7 Experiments - by Mario Gabriele&lt;/a&gt; &lt;sub&gt;(thegeneralist.substack.com)&lt;/sub&gt;
  - The breakthroughs, surprises, and failures that brought us to today.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Week 15 - 2023</title>
-      <link>https://perprompt.com/posts/w15-2023/</link>
-      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://perprompt.com/posts/w15-2023/</guid>
-      <description>a dog dreaming of prompt chatgpt for a delicious bone to chew on news All-In podcast E124 | [text-summary] - All-In podcast discussing AutoGPT, generative AI&amp;rsquo;s rapid impact on art, images, video, and eventually Hollywood, and regulation of AI.
-AutoGPT new kid on the block - Twitter thread about AutoGPT and its usages and potentials.
-Leveraging ChatGPT for multiplingual learners - The K-12 world is abuzz with opinions, both positive and negative, about the threats and opportunities that AI tools like ChatGPT bring to our classrooms.</description>
-      <content>
-  &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;https://perprompt.com/img/w15-2023-perprompt.png&#34;  alt=&#34;a dog dreaming of prompt chatgpt for a delicious bone to chew on&#34;   style=&#34;border-radius: 7px;&#34;  /&gt;
-    
-      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;a dog dreaming of prompt chatgpt for a delicious bone to chew on&lt;/figcaption&gt;
-    
-  &lt;/figure&gt;
-
-
-&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=i1gMhEUXeNk&#34;&gt;All-In podcast E124&lt;/a&gt; | [&lt;a href=&#34;https://www.summarize.tech/www.youtube.com/watch?v=i1gMhEUXeNk&#34;&gt;text-summary&lt;/a&gt;] - All-In podcast discussing AutoGPT, generative AI&amp;rsquo;s rapid impact on art, images, video, and eventually Hollywood, and regulation of AI.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/gregisenberg/status/1645817335024869376?s=46&#34;&gt;AutoGPT new kid on the block&lt;/a&gt; - Twitter thread about AutoGPT and its usages and potentials.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://ellevationeducation.com/blog/leveraging-chatgpt-multilingual-learners&#34;&gt;Leveraging ChatGPT for multiplingual learners&lt;/a&gt; - The K-12 world is abuzz with opinions, both positive and negative, about the threats and opportunities that AI tools like ChatGPT bring to our classrooms.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/SullyOmarr/status/1645828811680800768&#34;&gt;Autonomous AI agents&lt;/a&gt; - Twitter thread about Autonomous AI Agents that will be in every aspect of life.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2023/04/06/anthropics-5b-4-year-plan-to-take-on-openai/&#34;&gt;Anthropic&amp;rsquo;s $5B, 4-year plan to take on OpenAI&lt;/a&gt; - AI research startup Anthropic aims to raise as much as $5 billion over the next two years to take on rival OpenAI.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://old.reddit.com/r/freelanceWriters/comments/12ff5mw/it_happened_to_me_today/&#34;&gt;It happened to me today&lt;/a&gt; - Freelance writer big client dropped him in favor of AI.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ruxu.dev/articles/ai/maximizing-the-potential-of-llms/&#34;&gt;Maximizing the Potential of LLMs&lt;/a&gt; - A Guide to Prompt Engineering&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://nickarner.com/notes/the-coming-of-local-llms-march-23-2023/&#34;&gt;The Coming of Local LLMs&lt;/a&gt; - Recently, the weights of Facebook’s LLaMA model leaked via a torrent posted to 4Chan. This sparked a flurry of open-source activity, including llama.cpp. Authored by the creator of whisper.cpp, it quickly showed that it’s possible to get an LLM running on an M1 Mac.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/blader/status/1631543565305405443&#34;&gt;AI read our minds&lt;/a&gt; - a team from osaka was able to reconstruct visual images from mri scan data using stable diffusion.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2023/04/surprising-things-happen-when-you-put-25-ai-agents-together-in-an-rpg-town/&#34;&gt;Surprising things happen when you put 25 AI agents together in an RPG town&lt;/a&gt; - Researchers study emergent AI behaviors in a sandbox world inspired by The Sims.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20&#34;&gt;GPT-4 Outperforms Elite Crowdworkers, Saving Researchers $500,000 and 20,000 hours&lt;/a&gt; - A new study reveals that OpenAI&amp;rsquo;s GPT-4 outperforms elite human annotators in labeling tasks, saving a team of researchers over $500,000 and 20,000 hours of labor while raising questions about the future of crowdworking.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://eugeneyan.com/writing/llm-experiments/&#34;&gt;Experimenting with LLMs to Research, Reflect, and Plan&lt;/a&gt; - Also, shortcomings in document retrieval and how to overcome them with search &amp;amp; recsys techniques.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2304.05128&#34;&gt;Teaching Large Language Models to Self-Debug&lt;/a&gt; - Large language models (LLMs) have achieved impressive performance on code generation. However, for complex programming tasks, generating the correct solution in one go becomes challenging, thus some prior works have designed program repair approaches to improve code generation performance. In this work, we propose Self-Debugging, which teaches a large language model to debug its predicted program via few-shot demonstrations.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.businessinsider.com/uber-amazon-pay-using-ai-different-wages-same-work-discrimination-2023-4&#34;&gt;Uber, Amazon use AI to pay people different wages for same work: Study&lt;/a&gt; - Some companies use AI to pay workers &amp;ldquo;different amount for the same amount of work,&amp;rdquo; per new research. Veena Dubal, a law professor at UC Hastings and the paper&amp;rsquo;s author, calls this &amp;ldquo;algorithmic wage discrimination.&amp;rdquo; As companies adopt AI, she&amp;rsquo;s concerned these practices could become prevalent in other industries.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://simonwillison.net/2023/Apr/16/web-llm/&#34;&gt;Web LLM runs the vicuna-7b Large Language Model entirely in your browser, and it’s very impressive&lt;/a&gt; - Web LLM is a project from the same team as Web Stable Diffusion which runs the vicuna-7b-delta-v0 model in a browser, taking advantage of the brand new WebGPU API that just arrived in Chrome in beta.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.zdnet.com/article/what-is-auto-gpt-everything-to-know-about-the-next-powerful-ai-tool/&#34;&gt;What is Auto-GPT? Everything to know about the next powerful AI tool&lt;/a&gt; - Auto-GPT can do a lot of things ChatGPT can&amp;rsquo;t do.&lt;/p&gt;
-&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://askyourpdf.com/&#34;&gt;Ask your PDF&lt;/a&gt; - Your gateway to dynamic, interactive, and intelligent conversations with any PDF document.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.bing.com/images/create&#34;&gt;Bing image generator&lt;/a&gt; - Create your AI generate images with prompt powered by Bing.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://apps.apple.com/us/app/oasis-ai/id1668222944&#34;&gt;Oasis AI app&lt;/a&gt; - ‎Create perfect writing in any format just by talking. AI transcribes your natural speech, then rewrites it as a professional email, blog post, college essay, LinkedIn post, text message, outline, TikTok video script, pop song &amp;amp; more.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/openai/plugins-quickstart&#34;&gt;OpenAI plugins quickstart&lt;/a&gt; - Get a ChatGPT plugin up and running in under 5 minutes!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot&#34;&gt;Telegram AI bot&lt;/a&gt; - Interact with OpenAI&amp;rsquo;s ChatGPT via Telegram and Voice.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Significant-Gravitas/Auto-GPT&#34;&gt;Auto-GPT&lt;/a&gt; - Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM &amp;ldquo;thoughts&amp;rdquo;, to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/reworkd/AgentGPT&#34;&gt;AgentGPT&lt;/a&gt; - Assemble, configure, and deploy autonomous AI Agents in your browser.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-ai/web-llm&#34;&gt;Web LLM&lt;/a&gt; - This project brings language model chats directly onto web browsers. Everything runs inside the browser with no server support and accelerated with WebGPU. We can bring a lot of fun opportunities to build AI assistants for everyone and enable privacy while enjoying GPU acceleration.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/LAION-AI/Open-Assistant&#34;&gt;OpenAssistant&lt;/a&gt; - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.&lt;/p&gt;
-&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://fairanimateddrawings.com/site/home&#34;&gt;Animated drawing&lt;/a&gt; - Create animations starring your own drawn characters. This is an implementation of the algorithm described in the paper, &amp;lsquo;A Method for Automatically Animating Children&amp;rsquo;s Drawings of the Human Figure&amp;rsquo;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://adventure.typingcloud.com/&#34;&gt;AI text adventure&lt;/a&gt; - An experiment with ChatGPT in a text adventure game, but you are the game and the AI is the player.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.izzy.co/blogs/robo-boys.html&#34;&gt;Replacing my best friends with an LLM trained on 500,000 group chat messages&lt;/a&gt; - An exploration into customizing LLMs for personal use.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=OgYQAS9LY3o&#34;&gt;The ONE ChatGPT Prompt to Rule Them All&lt;/a&gt; | [&lt;a href=&#34;https://www.summarize.tech/www.youtube.com/watch?v=OgYQAS9LY3o&#34;&gt;text-summary&lt;/a&gt;] - Cool video on asking the right questions and using prompt generator prior to getting the CHAT GPT answers your looking for.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://mobile.twitter.com/dannypostmaa/status/1639961284748689410&#34;&gt;ChatGPT as travel planner&lt;/a&gt; - ChatGPT is the ultimate travel planner. No more sifting through endless personal stories and annoying ads. Just straightforward planning.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog&#34;&gt;How I Used Stable Diffusion and Dreambooth to Create A Painted Portrait of My Dog
-&lt;/a&gt; - This project is something I’ve wanted to do since the day I first toyed with Stable Diffusion. The pace at which the community is developing new tools and techniques is astounding.&lt;/p&gt;
 </content>
     </item>
     

@@ -5,6 +5,7 @@ subtitle = 'Weekly digest of interesting news and tool about LLM, GPT and AI.'
 theme = 'terminal'
 keywords = 'llm,gpt,chatgpt,ai,tech'
 enableRobotsTXT = true
+enableEmoji = true
 
 [params]
   contentTypeName = "posts"
