@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oss on Per Prompt - Weekly LLV, GPT, AI Digests</title>
+    <link>https://perprompt.com/tags/oss/</link>
+    <description>Recent content in oss on Per Prompt - Weekly LLV, GPT, AI Digests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/tags/oss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 17 - 2023</title>
+      <link>https://perprompt.com/posts/w17-2023/</link>
+      <pubDate>Sun, 30 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://perprompt.com/posts/w17-2023/</guid>
+      <description>news Project Magi: Google&amp;rsquo;s team of 160 working on adding new features to search engine - Tech (me.mashable.com) - Google is also developing a new search engine that promises to deliver a more personalized experience for users.
+GrammarlyGO | Grammarly (grammarly.com) - Introducing GrammarlyGO, the suite of generative AI capabilities from the leader in AI communication assistance.
+Adobe-led Content Authenticity Initiative aims to verify images are real (emergingtechbrew.com) - Rather than root out deepfakes, the Adobe-led Content Authenticity Initiative proposes criteria that verify photos and videos are real.</description>
+      <content>&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://me.mashable.com/tech/27276/project-magi-googles-team-of-160-working-on-adding-new-features-to-search-engine&#34;&gt;Project Magi: Google&amp;rsquo;s team of 160 working on adding new features to search engine - Tech&lt;/a&gt; &lt;sub&gt;(me.mashable.com)&lt;/sub&gt;
+ - Google is also developing a new search engine that promises to deliver a more personalized experience for users.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.grammarly.com/grammarlygo&#34;&gt;GrammarlyGO | Grammarly&lt;/a&gt; &lt;sub&gt;(grammarly.com)&lt;/sub&gt;
+ - Introducing GrammarlyGO, the suite of generative AI capabilities from the leader in AI communication assistance.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.emergingtechbrew.com/stories/2023/04/25/adobe-initiative-ai-images&#34;&gt;Adobe-led Content Authenticity Initiative aims to verify images are real&lt;/a&gt; &lt;sub&gt;(emergingtechbrew.com)&lt;/sub&gt;
+ - Rather than root out deepfakes, the Adobe-led Content Authenticity Initiative proposes criteria that verify photos and videos are real. { &lt;a href=&#34;https://perprompt.com/tags/deepfake&#34;&gt;#deepfake&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wsj.com/articles/pricewaterhousecoopers-to-pour-1-billion-into-generative-ai-cac2cedd&#34;&gt;PricewaterhouseCoopers to Pour $1 Billion Into Generative AI - WSJ&lt;/a&gt; &lt;sub&gt;(wsj.com)&lt;/sub&gt;
+ - Multiyear investment in U.S. business includes accessing ChatGPT maker OpenAI’s language model, training staff in AI capabilities { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2304.11062&#34;&gt;[2304.11062] Scaling Transformer to 1M tokens and beyond with RMT&lt;/a&gt; &lt;sub&gt;(arxiv.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35682424&#34;&gt;💬 discussion&lt;/a&gt;] - In the near term there has been another paper written about recurrent memory transformers (RMT) that can scale to 1-2 million tokens. And the advantage is that it could work with the existing transformer architecture. This would open up the possibilities for much longer creative works and collaborations. And conversations with large language models that could remain coherent for days, weeks, and even months depend on the use case. { &lt;a href=&#34;https://perprompt.com/tags/scaling&#34;&gt;#scaling&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/research&#34;&gt;#research&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation&#34;&gt;Can generative AI lead people to understand animals? | Google Cloud Blog&lt;/a&gt; &lt;sub&gt;(cloud.google.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35683360&#34;&gt;💬 discussion&lt;/a&gt;] - The Earth Species Project is using large language models just like Bard to develop tools to decipher animal communication. We might even squawk back. { &lt;a href=&#34;https://perprompt.com/tags/animal&#34;&gt;#animal&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.vice.com/en/article/dy3vmx/an-ai-scraping-tool-is-overwhelming-websites-with-traffic&#34;&gt;An AI Scraping Tool Is Overwhelming Websites With Traffic&lt;/a&gt; &lt;sub&gt;(vice.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35701565&#34;&gt;💬 discussion&lt;/a&gt;] - The creator of a tool that scrapes the internet for images in order to power artificial intelligence image generators like Stable Diffusion is telling website owners who want him to stop that they have to actively opt out, and that it’s “sad” that they are fighting the inevitable rise of AI. { &lt;a href=&#34;https://perprompt.com/tags/scrape&#34;&gt;#scrape&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.axios.com/2023/04/25/openai-chatgpt-private-option&#34;&gt;OpenAI chatgpt private option&lt;/a&gt; &lt;sub&gt;(axios.com)&lt;/sub&gt;
+ - OpenAI is adding new options to ChatGPT for those who want to ensure their data isn&amp;rsquo;t being used to train the company&amp;rsquo;s algorithms. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.diyphotography.net/ai-used-photographers-photos-for-training-then-slapped-him-with-an-invoice/&#34;&gt;AI used photographer&amp;rsquo;s photos for training, then slapped him with an invoice&lt;/a&gt; &lt;sub&gt;(diyphotography.net)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35712131&#34;&gt;💬 discussion&lt;/a&gt;] - If your photos were used without your permission, you could have every right to take legal action. However, the growing popularity and use of AI image generators make things way more complicated than we imagine. { &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html&#34;&gt;The UK will spend £100 million to develop its own &amp;lsquo;sovereign&amp;rsquo; AI | Engadget&lt;/a&gt; &lt;sub&gt;(engadget.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35700983&#34;&gt;💬 discussion&lt;/a&gt;] - The country aims to rival AI models like ChatGPT. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2023/04/24/snapchat-sees-spike-in-1-star-reviews-as-users-pan-the-my-ai-feature-calling-for-its-removal/&#34;&gt;Snapchat sees spike in 1-star reviews as users pan the &amp;lsquo;My AI&amp;rsquo; feature, calling for its removal | TechCrunch&lt;/a&gt; &lt;sub&gt;(techcrunch.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35689596&#34;&gt;💬 discussion&lt;/a&gt;] - The user reviews for Snapchat’s “My AI” feature are in — and they’re not good. { &lt;a href=&#34;https://perprompt.com/tags/social-media&#34;&gt;#social-media&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt&#34;&gt;New ways to manage your data in ChatGPT&lt;/a&gt; &lt;sub&gt;(openai.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35703378&#34;&gt;💬 discussion&lt;/a&gt;] - ChatGPT users can now turn off chat history, allowing you to choose which conversations can be used to train our models. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theverge.com/2023/4/26/23699633/mark-zuckerberg-meta-generative-ai-chatbots-instagram-facebook-whatsapp&#34;&gt;Meta wants to ‘introduce AI agents to billions of people’ - The Verge&lt;/a&gt; &lt;sub&gt;(theverge.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35721910&#34;&gt;💬 discussion&lt;/a&gt;] - Mark Zuckerberg says Meta wants to ‘introduce AI agents to billions of people’ { &lt;a href=&#34;https://perprompt.com/tags/meta&#34;&gt;#meta&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wired.com/story/andy-warhol-fair-use-prince-generative-ai/&#34;&gt;The Andy Warhol Copyright Case That Could Transform Generative AI | WIRED&lt;/a&gt; &lt;sub&gt;(wired.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35731856&#34;&gt;💬 discussion&lt;/a&gt;] - The US Supreme Court’s upcoming decision could shift the interpretation of fair use law—and all the people, and tools, that turn to it for protection. { &lt;a href=&#34;https://perprompt.com/tags/copyright&#34;&gt;#copyright&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://archive.is/RFuoc&#34;&gt;&lt;/a&gt; &lt;sub&gt;(archive.is)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35739906&#34;&gt;💬 discussion&lt;/a&gt;] - Our columnist replaced herself with AI voice and video to see how humanlike the tech can be. The results were eerie. { &lt;a href=&#34;https://perprompt.com/tags/deepfake&#34;&gt;#deepfake&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://archive.ph/R08qM&#34;&gt;AI meets accountants&lt;/a&gt; &lt;sub&gt;(archive.ph)&lt;/sub&gt;
+ - Like spreadsheets changed the industry in the 1980s, AI will give accountants new opportunities to automate operations, increase accuracy, and analyse data more effectively. This means that accountants will have more time to concentrate on strategic analytics and decision-making instead of spending countless hours on repetitive operations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stability.ai/blog/deepfloyd-if-text-to-image-model&#34;&gt;Stability AI releases DeepFloyd IF, a powerful text-to-image model that can smartly integrate text into images — Stability AI&lt;/a&gt; &lt;sub&gt;(stability.ai)&lt;/sub&gt;
+ - DeepFloyd IF is a state-of-the-art text-to-image model released on a non-commercial, research-permissible license that provides an opportunity for research labs to examine and experiment with advanced text-to-image generation approaches. In line with other Stability AI models, Stability AI intends to release a DeepFloyd IF model fully open source at a future date. { &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2023/04/28/openai-funding-valuation-chatgpt/&#34;&gt;OpenAI closes $300M share sale at $27B-29B valuation | TechCrunch&lt;/a&gt; &lt;sub&gt;(techcrunch.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35748540&#34;&gt;💬 discussion&lt;/a&gt;] - OpenAI, the startup behind the widely used conversational AI model ChatGPT, has picked up new backers, TechCrunch has learned. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/sanchit-gandhi/whisper-jax&#34;&gt;GitHub - sanchit-gandhi/whisper-jax&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ - Contribute to sanchit-gandhi/whisper-jax development by creating an account on GitHub.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open-assistant.io/&#34;&gt;Open Assistant&lt;/a&gt; &lt;sub&gt;(open-assistant.io)&lt;/sub&gt;
+ - Conversational AI for everyone. In the same way that Stable Diffusion helped the world make art and images in new ways, we want to improve the world by providing amazing conversational AI.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dup.ai/&#34;&gt;dup.ai&lt;/a&gt; &lt;sub&gt;(dup.ai)&lt;/sub&gt;
+ - AI-powered 3D editor designed for all, the only limit is your imagination. Seamlessly connecting the physical and digital realms, making 3D accessible and intuitive for all.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.promptingguide.ai/&#34;&gt;promptingguide.ai&lt;/a&gt; &lt;sub&gt;(promptingguide.ai)&lt;/sub&gt;
+ - Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://trypromptly.com/&#34;&gt;Promptly: AI Apps and Chatbots in Minutes | No-code AI App Builder&lt;/a&gt; &lt;sub&gt;(trypromptly.com)&lt;/sub&gt;
+ - Effortlessly create cutting-edge generative AI applications and chatbots that cater to your users&amp;rsquo; unique needs. Easily integrate your own data to build powerful GPT-backed apps. No coding required. { &lt;a href=&#34;https://perprompt.com/tags/chatbot&#34;&gt;#chatbot&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jailbreakchat.com/&#34;&gt;Jailbreak Chat&lt;/a&gt; &lt;sub&gt;(jailbreakchat.com)&lt;/sub&gt;
+ - Collection of ChatGPT jailbreak prompts { &lt;a href=&#34;https://perprompt.com/tags/jailbreak&#34;&gt;#jailbreak&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.chartgpt.dev/&#34;&gt;AI tool to convert text to a beautiful chart&lt;/a&gt; &lt;sub&gt;(chartgpt.dev)&lt;/sub&gt;
+ - AI tool to build charts based on text input { &lt;a href=&#34;https://perprompt.com/tags/chart&#34;&gt;#chart&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-ai/web-llm&#34;&gt;GitHub - mlc-ai/web-llm: Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ - This project brings language model chats directly onto web browsers. Everything runs inside the browser with no server support and accelerated with WebGPU. We can bring a lot of fun opportunities to build AI assistants for everyone and enable privacy while enjoying GPU acceleration. { &lt;a href=&#34;https://perprompt.com/tags/web&#34;&gt;#web&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/modal-labs/quillman&#34;&gt;GitHub - modal-labs/quillman: A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35701534&#34;&gt;💬 discussion&lt;/a&gt;] - Serverless voice chat with Vicuna-13B { &lt;a href=&#34;https://perprompt.com/tags/voice&#34;&gt;#voice&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://phasellm.com/researchgpt&#34;&gt;ResearchLLM&lt;/a&gt; &lt;sub&gt;(phasellm.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35702407&#34;&gt;💬 discussion&lt;/a&gt;] - ResearchGPT is an LLM-powered product that writes analytics code for your data. It also takes the results of its analysis and helps interpret them for you. { &lt;a href=&#34;https://perprompt.com/tags/research&#34;&gt;#research&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://huggingface.co/chat/&#34;&gt;HuggingChat&lt;/a&gt; &lt;sub&gt;(huggingface.co)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35701846&#34;&gt;💬 discussion&lt;/a&gt;] - Making the best open source AI chat models available to everyone. { &lt;a href=&#34;https://perprompt.com/tags/oss&#34;&gt;#oss&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.superusapp.com/chatgpt2d/&#34;&gt;ChatGPT-2D: Use ChatGPT on a 2 Dimensional Interface&lt;/a&gt; &lt;sub&gt;(superusapp.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35709088&#34;&gt;💬 discussion&lt;/a&gt;] - I build ChatGPT-2D with the idea to enable people to branch AI conversations interactively, pose contextual questions based on AI response and visualize your entire dialogue on a 2 dimensional map interface. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deepdoctection/deepdoctection&#34;&gt;GitHub - deepdoctection/deepdoctection: A Repo For Document AI&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35719937&#34;&gt;💬 discussion&lt;/a&gt;] - deepdoctection is a Python library that orchestrates document extraction and document layout analysis tasks using deep learning models. It does not implement models but enables you to build pipelines using highly acknowledged libraries for object detection, OCR and selected NLP tasks and provides an integrated framework for fine-tuning, evaluating and running models. For more specific text processing tasks use one of the many other great NLP libraries. { &lt;a href=&#34;https://perprompt.com/tags/document&#34;&gt;#document&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://labs.kagi.com/fastgpt&#34;&gt;FastGPT&lt;/a&gt; &lt;sub&gt;(labs.kagi.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35719482&#34;&gt;💬 discussion&lt;/a&gt;] - Modern large language models are powerful but often slow to use and lack information about current events. FastGPT is a proof of concept built to answer the question, &amp;ldquo;What is the fastest possible AI answering engine that runs a full search engine underneath?&amp;rdquo;. Typically, FastGPT will start outputting answers in just ~900ms. FastGPT is best used to retrieve a general topic summary from the web. The processing is optimized for speed, not necessarily the maximum possible accuracy (which would require more processing time). { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kagi.com/summarizer/index.html&#34;&gt;Universal Summarizer by Kagi&lt;/a&gt; &lt;sub&gt;(kagi.com)&lt;/sub&gt;
+ - Universal Summarizer. Summarize any content on the web - from articles to books - in a jiffy! { &lt;a href=&#34;https://perprompt.com/tags/summary&#34;&gt;#summary&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.you-tldr.com/&#34;&gt;you-tldr&lt;/a&gt; &lt;sub&gt;(you-tldr.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35754793&#34;&gt;💬 discussion&lt;/a&gt;] - Get The TLDR Of Any YouTube Video { &lt;a href=&#34;https://perprompt.com/tags/summary&#34;&gt;#summary&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://glarity.app/&#34;&gt;ChatGPT for YouTube/Google|Chrome Extension - Glarity Summary&lt;/a&gt; &lt;sub&gt;(glarity.app)&lt;/sub&gt;
+ - Glarity Summary is a ChatGPT for YouTube/Google extension that can summarize YouTube videos and Google searches, also supports Yahoo! ニュース, PubMed, PMC, NewsPicks, Github, Nikkei, Bing, Google Patents and any page summary. { &lt;a href=&#34;https://perprompt.com/tags/summary&#34;&gt;#summary&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dbpilot.io/&#34;&gt;DB Pilot - A beautiful database GUI. Enhanced by AI.&lt;/a&gt; &lt;sub&gt;(dbpilot.io)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35761979&#34;&gt;💬 discussion&lt;/a&gt;] - A beautiful database GUI. Enhanced by AI. { &lt;a href=&#34;https://perprompt.com/tags/database&#34;&gt;#database&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://hero.page/samir/all-prompt-libraries-in-one-page&#34;&gt;All Prompt Libraries in One Page (@samir) | Hero&lt;/a&gt; &lt;sub&gt;(hero.page)&lt;/sub&gt;
+ - all prompt libraries in one page created by @samir on Hero. Hero is a link sharing platform that allows you to easily share the amazing links you&amp;rsquo;ve discovered!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/SMB_Attorney/status/1648302869517312001&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - I’m a lawyer. I use ChatGPT daily. I feel like causing some chaos in my profession.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/varunshenoy_/status/1648374949537775616&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - I connected ChatGPT to my personal health data on my iPhone. Now, I can have a conversation with my digital health history. The code is also public. Say hello to HealthGPT 👋&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/achammah1/status/1649482899253501958&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Excited to introduce NexusGPT, a marketplace of 800+ autonomous AI-agent with each specific skillset. Demo is free on &lt;a href=&#34;http://nexus.snikpic.io&#34;&gt;http://nexus.snikpic.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/ForefrontAI/status/1649429139907137540&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Today we’re launching Forefront chat—a better ChatGPT experience—in free alpha. Sign up to get free access to GPT-4, image generation, custom personas, shareable chats, and much more: &lt;a href=&#34;http://chat.forefront.ai&#34;&gt;http://chat.forefront.ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://thegeneralist.substack.com/p/the-history-of-ai&#34;&gt;The History of AI in 7 Experiments - by Mario Gabriele&lt;/a&gt; &lt;sub&gt;(thegeneralist.substack.com)&lt;/sub&gt;
+ - The breakthroughs, surprises, and failures that brought us to today.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sahbichaieb.com/profilegpt/&#34;&gt;ProfileGPT: What does ChatGPT know about you ? | Sahbi Chaieb&lt;/a&gt; &lt;sub&gt;(sahbichaieb.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35675952&#34;&gt;💬 discussion&lt;/a&gt;] - In this post, I will introduce ProfileGPT, an open-source app that allows users to analyze their user’s profile and personality as seen by ChatGPT, while raising awareness about data usage and responsible AI practices.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://about.sourcegraph.com/blog/cheating-is-all-you-need&#34;&gt;Cheating is All You Need&lt;/a&gt; &lt;sub&gt;(about.sourcegraph.com)&lt;/sub&gt;
+ - LLMs aren’t just the biggest change since social, mobile, or cloud–they’re the biggest thing since the World Wide Web. And on the coding front, they’re the biggest thing since IDEs and Stack Overflow, and may well eclipse them both. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/ide&#34;&gt;#ide&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://petapixel.com/2023/04/24/a-i-imagery-may-destroy-history-as-we-know-it/&#34;&gt;AI Imagery May Destroy History As We Know It | PetaPixel&lt;/a&gt; &lt;sub&gt;(petapixel.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35699962&#34;&gt;💬 discussion&lt;/a&gt;] - Artificial intelligence images have the potential to misinform the future. For the first time in the technological present, we are on the cusp of a life-and-art-altering explosion of intentionally created dis-informational imagery. { &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/d_feldman/status/1649466422018318338&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35684125&#34;&gt;💬 discussion&lt;/a&gt;] - A search for &amp;lsquo;site:http://amazon.com &amp;ldquo;as an AI language model&amp;rdquo;&amp;rsquo; yields some fun results! { &lt;a href=&#34;https://perprompt.com/tags/funny&#34;&gt;#funny&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/ChatGPT/comments/12wlnwy/advanced_prompt_engineering_planning/&#34;&gt;Reddit - Dive into anything&lt;/a&gt; &lt;sub&gt;(reddit.com)&lt;/sub&gt;
+ - The basic premise: when you have a complicated question that you don&amp;rsquo;t think the ai will be able to give a complete answer to on the first go, instead of asking it to answer directly, ask it instead to consider the premise of the problem, and outline a plan for solving it. { &lt;a href=&#34;https://perprompt.com/tags/prompt-engineering&#34;&gt;#prompt-engineering&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Rainmaker1973/status/1650582068395384835&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Famous historical philosophers words of wisdom brought to life by AI { &lt;a href=&#34;https://perprompt.com/tags/wisdom&#34;&gt;#wisdom&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mitchellh.com/writing/prompt-engineering-transactional-prompting&#34;&gt;Prompt Engineering is for Transactional Prompting – Mitchell Hashimoto&lt;/a&gt; &lt;sub&gt;(mitchellh.com)&lt;/sub&gt;
+ - Prompt engineering is primarily about transactional prompting, and a considerable amount of confusion or negativity arises when an individual tries to apply it to interactive prompting. { &lt;a href=&#34;https://perprompt.com/tags/prompt-engineering&#34;&gt;#prompt-engineering&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/&#34;&gt;Capturing the Flag with GPT-4&lt;/a&gt; &lt;sub&gt;(micahflee.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35683265&#34;&gt;💬 discussion&lt;/a&gt;] - I used GPT-4 for help on several other challenges, but these three especially impressed me. I also solved several challenges without its help&amp;ndash;partially because it&amp;rsquo;s not always easy to give it all the context it needs to answer a question. You can&amp;rsquo;t, for example, send it a 30MB APK file and then ask for help reverse engineering it, or copy all of the source code for a web app into GPT-4 and ask it to find the vulnerabilities. You can get help with smaller chunks of these problems, but I could see this technology getting way more powerful in the future. { &lt;a href=&#34;https://perprompt.com/tags/ctf&#34;&gt;#ctf&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rpg-gpt.vercel.app/&#34;&gt;rpgGPT&lt;/a&gt; &lt;sub&gt;(rpg-gpt.vercel.app)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35701530&#34;&gt;💬 discussion&lt;/a&gt;] - RPG with LLM-Powered NPCs { &lt;a href=&#34;https://perprompt.com/tags/game&#34;&gt;#game&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/marktenenholtz/status/1650832042702303233&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - I am at least 3-5x more productive using ChatGPT to code. Not only am I faster writing code I&amp;rsquo;m familiar with, but I&amp;rsquo;ve even shipped apps in tech stacks I&amp;rsquo;d never used before. Here&amp;rsquo;s my process, the prompts I use, and why it all works. { &lt;a href=&#34;https://perprompt.com/tags/coding&#34;&gt;#coding&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/productivity&#34;&gt;#productivity&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.drgupta.ai/&#34;&gt;Dr. Gupta: AI Physician Chatbot&lt;/a&gt; &lt;sub&gt;(drgupta.ai)&lt;/sub&gt;
+ - AI Physician Chatbot { &lt;a href=&#34;https://perprompt.com/tags/health&#34;&gt;#health&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what&#34;&gt;A guide to prompting AI (for what it is worth)&lt;/a&gt; &lt;sub&gt;(oneusefulthing.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35712375&#34;&gt;💬 discussion&lt;/a&gt;] - A little bit of magic, but mostly just practice { &lt;a href=&#34;https://perprompt.com/tags/prompt-engineering&#34;&gt;#prompt-engineering&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/AKBrews/status/1650910890772905987&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - This AI generated pizza commercial is terrifying and hilarious. { &lt;a href=&#34;https://perprompt.com/tags/funny&#34;&gt;#funny&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.moderndescartes.com/essays/why_brain/&#34;&gt;Why &lt;!-- raw HTML omitted --&gt;does&lt;!-- raw HTML omitted --&gt; did Google Brain exist?&lt;/a&gt; &lt;sub&gt;(moderndescartes.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35716216&#34;&gt;💬 discussion&lt;/a&gt;] - This essay was originally written in December 2022 as I pondered the future of my job. I sat on it because I wasn’t sure of the optics of posting such an essay while employed by Google Brain. But then Google made my decision easier by laying me off in January. My severance check cleared, and last week, Brain and DeepMind merged into one new unit, killing the Brain brand in favor of “Google DeepMind”. As somebody with a unique perspective and the unique freedom to share it, I hope I can shed some light on the question of Brain’s existence. I’ll lay out the many reasons for Brain’s existence and assess their continued validity in today’s economic conditions. { &lt;a href=&#34;https://perprompt.com/tags/google&#34;&gt;#google&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mattboegner.com/knowledge-retrieval-architecture-for-llms/&#34;&gt;Knowledge Retrieval Architecture for LLM’s (2023)&lt;/a&gt; &lt;sub&gt;(mattboegner.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35734685&#34;&gt;💬 discussion&lt;/a&gt;] - In this guide, I share my analysis of the current architectural best practices for data-informed language model applications. This particular subdiscipline is experiencing phenomenal research interest even by the standards of large language models - in this guide, I cite 8 research papers and 4 software projects,  with a median initial publication date of November 22nd, 2022. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/rpnickson/status/1651615923403366405&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - The future of AAA open-world games. This is a Skyrim VR mod by YouTuber &amp;lsquo;Art from the Machine&amp;rsquo; which lets you talk to NPCs using ChatGPT. NPCs have their own tailored prompts based on their unique backgrounds which allows ChatGPT to roleplay as that character. There&amp;rsquo;s also a memory system set up to allow NPCs to remember past conversations with the player. { &lt;a href=&#34;https://perprompt.com/tags/gaming&#34;&gt;#gaming&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nonbot.org/&#34;&gt;Human-made Content | Nonbot.org&lt;/a&gt; &lt;sub&gt;(nonbot.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35741239&#34;&gt;💬 discussion&lt;/a&gt;] - AI generated content is on the rise. How can you be sure what you&amp;rsquo;re reading is 100% human? Verify and find human-made content. { &lt;a href=&#34;https://perprompt.com/tags/human&#34;&gt;#human&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lamini.ai/blog/introducing-lamini&#34;&gt;Introducing Lamini, the LLM Engine for Rapid Customization&lt;/a&gt; &lt;sub&gt;(lamini.ai)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35743664&#34;&gt;💬 discussion&lt;/a&gt;] - Introducing Lamini, the LLM Engine for Rapidly Customizing Models { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://storiesby.ai/p/why-im-no-longer-writing-stories&#34;&gt;Why I&amp;rsquo;m no longer writing stories with AI&lt;/a&gt; &lt;sub&gt;(storiesby.ai)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35746177&#34;&gt;💬 discussion&lt;/a&gt;] - I won’t be publishing any more stories with storiesby.ai. What was once a quirky lark of a side-side-project hits darker now. Generative AI advanced more quickly than those in the industry thought possible. Many of us who think about the harm such systems can unleash thought we would have more time to prepare. { &lt;a href=&#34;https://perprompt.com/tags/writing&#34;&gt;#writing&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/jbrowder1/status/1652387444904583169&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35757689&#34;&gt;💬 discussion&lt;/a&gt;] - I decided to outsource my entire personal financial life to GPT-4. I gave AutoGPT access to my bank, financial statements, credit report, and email. { &lt;a href=&#34;https://perprompt.com/tags/finance&#34;&gt;#finance&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jacobbuckman.substack.com/p/we-arent-close-to-creating-a-rapidly&#34;&gt;We Aren&amp;rsquo;t Close To Creating A Rapidly Self-Improving AI&lt;/a&gt; &lt;sub&gt;(jacobbuckman.substack.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35752719&#34;&gt;💬 discussion&lt;/a&gt;] - The current paradigm will not lead to an overnight superintelligence explosion.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/&#34;&gt;The future of generative AI is niche, not generalized | MIT Technology Review&lt;/a&gt; &lt;sub&gt;(technologyreview.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35730327&#34;&gt;💬 discussion&lt;/a&gt;] - ChatGPT has sparked speculation about artificial general intelligence. But the next real phase of AI will be in specific domains and contexts. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://agi-sphere.com/llama-models/&#34;&gt;A brief history of LLaMA models - AGI Sphere&lt;/a&gt; &lt;sub&gt;(agi-sphere.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35736872&#34;&gt;💬 discussion&lt;/a&gt;] - The LLaMA base model was released in February 2023. Now we have seen a handful of new fine-tuned LLaMA models released. It is literally a brief history, but a lot has happened for sure. So let’s do a brief review. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions&#34;&gt;Study finds chatpgpt outperforms physicians in empathetic answers&lt;/a&gt; &lt;sub&gt;(today.ucsd.edu)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35751276&#34;&gt;💬 discussion&lt;/a&gt;] - While AI won’t replace your doctor, the JAMA Internal Medicine paper suggests physicians working together with technologies like ChatGPT may revolutionize medicine { &lt;a href=&#34;https://perprompt.com/tags/health&#34;&gt;#health&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mlc-ai/mlc-llm&#34;&gt;GitHub - mlc-ai/mlc-llm: Enable everyone to develop, optimize and deploy AI models natively on everyone&amp;rsquo;s devices.&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35763483&#34;&gt;💬 discussion&lt;/a&gt;] - Enable everyone to develop, optimize and deploy AI models natively on everyone&amp;rsquo;s devices. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/georgia-tech-db/eva&#34;&gt;GitHub - georgia-tech-db/eva: AI-Relational Database System | SQL meets Deep Learning&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35764355&#34;&gt;💬 discussion&lt;/a&gt;] - AI-Relational Database System | SQL meets Deep Learning { &lt;a href=&#34;https://perprompt.com/tags/database&#34;&gt;#database&lt;/a&gt;
+ }&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
