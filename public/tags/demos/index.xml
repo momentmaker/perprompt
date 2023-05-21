@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demos on Per Prompt - Weekly LLV, GPT, AI Digests</title>
+    <link>https://perprompt.com/tags/demos/</link>
+    <description>Recent content in demos on Per Prompt - Weekly LLV, GPT, AI Digests</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/tags/demos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 20 - 2023</title>
+      <link>https://perprompt.com/posts/w20-2023/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://perprompt.com/posts/w20-2023/</guid>
+      <description>fully ai-automated house in the middle of an enchanting forest news OpenAI chief concerned about AI being used to compromise elections | Reuters (reuters.com) | [💬 discussion] - The CEO of OpenAI, the startup behind ChatGPT, told a Senate panel on Tuesday the use of artificial intelligence to interfere with election integrity is a &amp;ldquo;significant area of concern&amp;rdquo;, adding that it needs regulation. { #regulation }
+Microsoft Says New AI Shows Signs of Human Reasoning - The New York Times (nytimes.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://perprompt.com/img/w20-2023-perprompt.png&#34;  alt=&#34;fully ai-automated house in the middle of an enchanting forest&#34;   style=&#34;border-radius: 7px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;fully ai-automated house in the middle of an enchanting forest&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reuters.com/technology/openai-chief-goes-before-us-congress-propose-licenses-building-ai-2023-05-16/&#34;&gt;OpenAI chief concerned about AI being used to compromise elections | Reuters&lt;/a&gt; &lt;sub&gt;(reuters.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35960125&#34;&gt;💬 discussion&lt;/a&gt;] - The CEO of OpenAI, the startup behind ChatGPT, told a Senate panel on Tuesday the use of artificial intelligence to interfere with election integrity is a &amp;ldquo;significant area of concern&amp;rdquo;, adding that it needs regulation. { &lt;a href=&#34;https://perprompt.com/tags/regulation&#34;&gt;#regulation&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html&#34;&gt;Microsoft Says New AI Shows Signs of Human Reasoning - The New York Times&lt;/a&gt; &lt;sub&gt;(nytimes.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35959712&#34;&gt;💬 discussion&lt;/a&gt;] - A provocative paper from researchers at Microsoft claims A.I. technology shows the ability to understand the way people do. Critics say those scientists are kidding themselves. { &lt;a href=&#34;https://perprompt.com/tags/reasoning&#34;&gt;#reasoning&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io&#34;&gt;AI is coming to Google search through Search Generative Experience - The Verge&lt;/a&gt; &lt;sub&gt;(theverge.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35987054&#34;&gt;💬 discussion&lt;/a&gt;] - Google is moving slowly and carefully to make AI happen. Maybe too slowly and too carefully for some people. But if you opt in, a whole new search experience awaits. { &lt;a href=&#34;https://perprompt.com/tags/google&#34;&gt;#google&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/search&#34;&gt;#search&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://openai.com/blog/introducing-the-chatgpt-app-for-ios&#34;&gt;Introducing the ChatGPT app for iOS&lt;/a&gt; &lt;sub&gt;(openai.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35990552&#34;&gt;💬 discussion&lt;/a&gt;] - The ChatGPT app syncs your conversations, supports voice input, and brings our latest model improvements to your fingertips. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/ios&#34;&gt;#ios&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2023/05/18/technology/ai-meta-open-source.html&#34;&gt;Meta Made Its AI Tech Open-Source. Rivals Say It’s a Risky Decision. - The New York Times&lt;/a&gt; &lt;sub&gt;(nytimes.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35986048&#34;&gt;💬 discussion&lt;/a&gt;] - The tech giant has publicly released its latest A.I. technology so people can build their own chatbots. Rivals like Google say that approach can be dangerous. { &lt;a href=&#34;https://perprompt.com/tags/meta&#34;&gt;#meta&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mashable.com/article/apple-chatgpt-employee-ban-report&#34;&gt;Apple bans ChatGPT use by employees, report says | Mashable&lt;/a&gt; &lt;sub&gt;(mashable.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36000079&#34;&gt;💬 discussion&lt;/a&gt;] - Apple employees will reportedly be restricted from using ChatGPT and other artificial intelligence tools. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/ban&#34;&gt;#ban&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/s-JoL/Open-Llama&#34;&gt;&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35934458&#34;&gt;💬 discussion&lt;/a&gt;] - The complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/oss&#34;&gt;#oss&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/suno-ai/bark&#34;&gt;GitHub - suno-ai/bark: 🔊 Text-Prompted Generative Audio Model&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35943108&#34;&gt;💬 discussion&lt;/a&gt;] - 🔊 Text-Prompted Generative Audio Model { &lt;a href=&#34;https://perprompt.com/tags/audio&#34;&gt;#audio&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/prompting&#34;&gt;#prompting&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/chathub-dev/chathub&#34;&gt;GitHub - chathub-dev/chathub: All-in-one chatbot client&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35946955&#34;&gt;💬 discussion&lt;/a&gt;] - All-in-one chatbot client { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/bard&#34;&gt;#bard&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gptzero.me/&#34;&gt;Home | GPTZero&lt;/a&gt; &lt;sub&gt;(gptzero.me)&lt;/sub&gt;
+ - The World&amp;rsquo;s #1 AI Detector with over 1 Million Users { &lt;a href=&#34;https://perprompt.com/tags/detector&#34;&gt;#detector&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eth-sri/lmql&#34;&gt;GitHub - eth-sri/lmql: A query language for programming (large) language models.&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35956484&#34;&gt;💬 discussion&lt;/a&gt;] - A query language for programming (large) language models. { &lt;a href=&#34;https://perprompt.com/tags/query&#34;&gt;#query&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/DivergentAI/dreamGPT&#34;&gt;GitHub - DivergentAI/dreamGPT: Leverage hallucinations from Large Language Models (LLMs) for novelty-driven explorations.&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35955686&#34;&gt;💬 discussion&lt;/a&gt;] - Leverage hallucinations from Large Language Models (LLMs) for novelty-driven explorations. { &lt;a href=&#34;https://perprompt.com/tags/python&#34;&gt;#python&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hivemoderation.com/ai-generated-content-detection&#34;&gt;Hive Moderation&lt;/a&gt; &lt;sub&gt;(hivemoderation.com)&lt;/sub&gt;
+ - Machine learning models to detect AI-generated content { &lt;a href=&#34;https://perprompt.com/tags/detector&#34;&gt;#detector&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/content&#34;&gt;#content&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/guidance&#34;&gt;GitHub - microsoft/guidance: A guidance language for controlling large language models.&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35963936&#34;&gt;💬 discussion&lt;/a&gt;] - A guidance language for controlling large language models. { &lt;a href=&#34;https://perprompt.com/tags/python&#34;&gt;#python&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://favird.com/l/ai-tools-and-applications&#34;&gt;Favird - Resources worth sharing&lt;/a&gt; &lt;sub&gt;(favird.com)&lt;/sub&gt;
+ - A place where you can learn, share, and grow your favorite resources. { &lt;a href=&#34;https://perprompt.com/tags/app&#34;&gt;#app&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/list&#34;&gt;#list&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/smol-ai/developer&#34;&gt;GitHub - smol-ai/developer: with 100k context windows on the way, it&amp;rsquo;s now feasible for every dev to have their own smol developer&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35945467&#34;&gt;💬 discussion&lt;/a&gt;] - with 100k context windows on the way, it&amp;rsquo;s now feasible for every dev to have their own smol developer { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/python&#34;&gt;#python&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nodepad.space/&#34;&gt;NodePad.&lt;/a&gt; &lt;sub&gt;(nodepad.space)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36002817&#34;&gt;💬 discussion&lt;/a&gt;] - LLM-aided graph based note-taking and brainstorming tool { &lt;a href=&#34;https://perprompt.com/tags/notes&#34;&gt;#notes&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.theapricot.io/posts/chatgpt-vs-bard/&#34;&gt;Apricot Blog - ChatGPT vs. Bard: A realistic comparison&lt;/a&gt; &lt;sub&gt;(blog.theapricot.io)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35931753&#34;&gt;💬 discussion&lt;/a&gt;] - Let’s see how Bard does vs. ChatGPT, without preconceptions or hype. One person’s totally unscientific, anecdotal, but realistic field experiment. { &lt;a href=&#34;https://perprompt.com/tags/bard&#34;&gt;#bard&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jalammar.github.io/illustrated-stable-diffusion/&#34;&gt;The Illustrated Stable Diffusion – Jay Alammar – Visualizing machine learning one concept at a time.&lt;/a&gt; &lt;sub&gt;(jalammar.github.io)&lt;/sub&gt;
+ - This is a gentle introduction to how Stable Diffusion works. { &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/learning&#34;&gt;#learning&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://erichartford.com/uncensored-models&#34;&gt;Uncensored Models&lt;/a&gt; &lt;sub&gt;(erichartford.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35946060&#34;&gt;💬 discussion&lt;/a&gt;] - Most of these models (for example, Alpaca, Vicuna, WizardLM, MPT-7B-Chat, Wizard-Vicuna, GPT4-X-Vicuna) have some sort of embedded alignment. For general purposes, this is a good thing. This is what stops the model from doing bad things, like teaching you how to cook meth and make bombs. But what is the nature of this alignment? And, why is it so? { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/uncensored&#34;&gt;#uncensored&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/brexhq/prompt-engineering&#34;&gt;GitHub - brexhq/prompt-engineering: Tips and tricks for working with Large Language Models like OpenAI&amp;rsquo;s GPT-4.&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35942583&#34;&gt;💬 discussion&lt;/a&gt;] - Tips and tricks for working with Large Language Models like OpenAI&amp;rsquo;s GPT-4. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/prompting&#34;&gt;#prompting&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/guide&#34;&gt;#guide&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://assistedeverything.substack.com/p/the-three-hills-model-for-evaluating&#34;&gt;The &amp;ldquo;Three-Hills&amp;rdquo; Model for evaluating GPT startups &lt;/a&gt; &lt;sub&gt;(assistedeverything.substack.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35948145&#34;&gt;💬 discussion&lt;/a&gt;] - GPT-powered startups/initiatives have to overcome 3 major obstacles to become mid- and long-term successful. This article discovers how you can analyze their use case along the dimensions of “Productivity Enhancements”, “Non zero-sum-game Value” and “Moat = Value from Context” you can classify any GPT-application into 3 different levels of potential success. { &lt;a href=&#34;https://perprompt.com/tags/startup&#34;&gt;#startup&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simonwillison.net/2023/Apr/25/dual-llm-pattern/&#34;&gt;The Dual LLM pattern for building AI assistants that can resist prompt injection&lt;/a&gt; &lt;sub&gt;(simonwillison.net)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35925758&#34;&gt;💬 discussion&lt;/a&gt;] - I really want an AI assistant: a Large Language Model powered chatbot that can answer questions and perform actions for me based on access to my private data and tools. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/privacy&#34;&gt;#privacy&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/prompting&#34;&gt;#prompting&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/&#34;&gt;Google I/O and the Coming AI Battles – Stratechery by Ben Thompson&lt;/a&gt; &lt;sub&gt;(stratechery.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35945988&#34;&gt;💬 discussion&lt;/a&gt;] - Some things in tech are shocking, but not surprising — think of a CEO of a struggling company losing their job. Sure, the news is unexpected, but it makes sense if you think about it. Other news, though, is shocking and surprising, and Google’s February keynote in Paris — which appeared to be a panicked response to Microsoft’s GPT-powered Bing announcement — was both. { &lt;a href=&#34;https://perprompt.com/tags/bard&#34;&gt;#bard&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eugeneyan.com/writing/open-llms/&#34;&gt;Open-LLMs - A list of LLMs for Commercial Use&lt;/a&gt; &lt;sub&gt;(eugeneyan.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35947556&#34;&gt;💬 discussion&lt;/a&gt;] - A List of LLMs for Commercial Use { &lt;a href=&#34;https://perprompt.com/tags/oss&#34;&gt;#oss&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://itwasntai.com/&#34;&gt;&lt;/a&gt; &lt;sub&gt;(itwasntai.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35951312&#34;&gt;💬 discussion&lt;/a&gt;] - Wrongly Accused by an AI Detector? We&amp;rsquo;re Here to Help You Clear Your Name { &lt;a href=&#34;https://perprompt.com/tags/detector&#34;&gt;#detector&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://old.reddit.com/r/ChatGPT/comments/13isibz/texas_am_commerce_professor_fails_entire_class_of/&#34;&gt;Texas A&amp;amp;M commerce professor fails entire class of seniors blocking them from graduating- claiming they all use “Chat GTP” : ChatGPT&lt;/a&gt; &lt;sub&gt;(old.reddit.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35963163&#34;&gt;💬 discussion&lt;/a&gt;] - Professor left responses in several students grading software stating “I’m not grading AI shit” lol { &lt;a href=&#34;https://perprompt.com/tags/education&#34;&gt;#education&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/goodside/status/1657396491676164096&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35964018&#34;&gt;💬 discussion&lt;/a&gt;] - Google Bard is a bit stubborn in its refusal to return clean JSON, but you can address this by threatening to take a human life. { &lt;a href=&#34;https://perprompt.com/tags/bard&#34;&gt;#bard&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lojones.github.io/2023/04/30/asimov-prompt-engineer.html&#34;&gt;Asimov - The Original Prompt Engineer | Login Jones&lt;/a&gt; &lt;sub&gt;(lojones.github.io)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35956594&#34;&gt;💬 discussion&lt;/a&gt;] - Isaac Asimov, a visionary in the realm of science fiction, unknowingly pioneered modern prompt engineering through his thought-provoking exploration of human-robot interactions in his groundbreaking Robot Series. { &lt;a href=&#34;https://perprompt.com/tags/prompting&#34;&gt;#prompting&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simonwillison.net/2023/May/18/cli-tools-for-llms/&#34;&gt;llm, ttok and strip-tags—CLI tools for working with ChatGPT and other LLMs&lt;/a&gt; &lt;sub&gt;(simonwillison.net)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35994037&#34;&gt;💬 discussion&lt;/a&gt;] { &lt;a href=&#34;https://perprompt.com/tags/cli&#34;&gt;#cli&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.aidemos.info/&#34;&gt;AI Demos - AI Demos and Tips, DALL·E, Stable Diffusion, GPT-3 and more&lt;/a&gt; &lt;sub&gt;(aidemos.info)&lt;/sub&gt;
+ - AI Demos and Tips, DALL·E, Stable Diffusion, GPT-3 and more { &lt;a href=&#34;https://perprompt.com/tags/demos&#34;&gt;#demos&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/tips&#34;&gt;#tips&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kai-greshake.de/posts/inject-my-pdf/&#34;&gt;Inject My PDF: Prompt Injection for your Resume&lt;/a&gt; &lt;sub&gt;(kai-greshake.de)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35993498&#34;&gt;💬 discussion&lt;/a&gt;] - To escape a deluge of generated content, companies are screening your resumes and documents using AI. But there is a way you can still stand out and get your dream job: Prompt Injection. This website allows you to inject invisible text into your PDF that will make any AI language model think you are the perfect candidate for the job. { &lt;a href=&#34;https://perprompt.com/tags/resume&#34;&gt;#resume&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/prompt-injection&#34;&gt;#prompt-injection&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/wunderwuzzi23/status/1659411665853779971&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=35997798&#34;&gt;💬 discussion&lt;/a&gt;] - 👉 Let ChatGPT visit a website and have your email stolen. Plugins, Prompt Injection and Cross Plug-in Request Forgery. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/plugin&#34;&gt;#plugin&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/prompt-injection&#34;&gt;#prompt-injection&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=C762HWSz67w&#34;&gt;🎬 watch video&lt;/a&gt; | [&lt;a href=&#34;https://www.summarize.tech/www.youtube.com/watch?v=C762HWSz67w&#34;&gt;📝 text-summary&lt;/a&gt;] &lt;sub&gt;(youtube.com)&lt;/sub&gt;
+ - E129: Sam Altman plays chess with regulators, AI&amp;rsquo;s &amp;ldquo;nuclear&amp;rdquo; potential, big pharma bundling &amp;amp; more { &lt;a href=&#34;https://perprompt.com/tags/regulation&#34;&gt;#regulation&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://puzzlemoji.com/&#34;&gt; PuzzleMoji &lt;/a&gt; &lt;sub&gt;(puzzlemoji.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36010778&#34;&gt;💬 discussion&lt;/a&gt;] - Help ChatGPT guess the movie using 3 emojis. You have 3 tries for each of today&amp;rsquo;s 3 puzzles. { &lt;a href=&#34;https://perprompt.com/tags/game&#34;&gt;#game&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c&#34;&gt;Subscribe to read | Financial Times&lt;/a&gt; &lt;sub&gt;(ft.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36018386&#34;&gt;💬 discussion&lt;/a&gt;] - The AI revolution already transforming education { &lt;a href=&#34;https://perprompt.com/tags/education&#34;&gt;#education&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://spectrum.ieee.org/gpt-4-calm-down&#34;&gt;Just Calm Down About GPT-4 Already - IEEE Spectrum&lt;/a&gt; &lt;sub&gt;(spectrum.ieee.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36017309&#34;&gt;💬 discussion&lt;/a&gt;] - Just Calm Down About GPT-4 Already And stop confusing performance with competence, says Rodney Brooks { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cs.stanford.edu/~knuth/chatGPT20.txt&#34;&gt;Don Knuth plays with ChatGPT&lt;/a&gt; &lt;sub&gt;(cs.stanford.edu)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36012360&#34;&gt;💬 discussion&lt;/a&gt;] { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html&#34;&gt;Is This the Future of Home Automation?&lt;/a&gt; &lt;sub&gt;(atomic14.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36013571&#34;&gt;💬 discussion&lt;/a&gt;] - I’ve been creating ChatGPT plugins and started thinking - wouldn’t it be fun to connect this to a Raspberry Pi and control some hardware? Turns out, it’s very easy to do. { &lt;a href=&#34;https://perprompt.com/tags/home-automation&#34;&gt;#home-automation&lt;/a&gt;
+ }&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
