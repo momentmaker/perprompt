@@ -6,7 +6,159 @@
     <description>Recent content in meta on Per Prompt - Weekly LLV, GPT, AI Digests</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 21 - 2023</title>
+      <link>https://perprompt.com/posts/w21-2023/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://perprompt.com/posts/w21-2023/</guid>
+      <description>news AI-generated photo of fake Pentagon explosion sparks brief stock selloff (nypost.com) | [💬 discussion] - A purportedly AI-generated photo of a fake explosion at the Pentagon spread rapidly on social media on Monday – prompting mass confusion among users and a brief selloff in the US stock market. { #fake #image }
+Intel Announces Aurora genAI, Generative AI Model With 1 Trillion Parameters (wccftech.com) | [💬 discussion] - Intel Unveils Aurora genAI &amp;ldquo;Generative AI Model&amp;rdquo; For Science, Up To 1 Trillion Parameters { #intel }</description>
+      <content>&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://nypost.com/2023/05/22/ai-generated-photo-of-fake-pentagon-explosion-sparks-brief-stock-selloff/&#34;&gt;AI-generated photo of fake Pentagon explosion sparks brief stock selloff&lt;/a&gt; &lt;sub&gt;(nypost.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36035981&#34;&gt;💬 discussion&lt;/a&gt;] - A purportedly AI-generated photo of a fake explosion at the Pentagon spread rapidly on social media on Monday – prompting mass confusion among users and a brief selloff in the US stock market. { &lt;a href=&#34;https://perprompt.com/tags/fake&#34;&gt;#fake&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/&#34;&gt;Intel Announces Aurora genAI, Generative AI Model With 1 Trillion Parameters&lt;/a&gt; &lt;sub&gt;(wccftech.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36034074&#34;&gt;💬 discussion&lt;/a&gt;] - Intel Unveils Aurora genAI &amp;ldquo;Generative AI Model&amp;rdquo; For Science, Up To 1 Trillion Parameters { &lt;a href=&#34;https://perprompt.com/tags/intel&#34;&gt;#intel&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2023/05/23/microsoft-debuts-azure-ai-studio-to-let-developers-build-their-own-ai-copilots/&#34;&gt;Microsoft&amp;rsquo;s Azure AI Studio lets developers build their own AI &amp;lsquo;copilots&amp;rsquo; | TechCrunch&lt;/a&gt; &lt;sub&gt;(techcrunch.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36047178&#34;&gt;💬 discussion&lt;/a&gt;] - Microsoft wants companies to build their own AI-powered “copilots” — using tools on Azure and machine learning models from its close partner OpenAI, of course. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/microsoft&#34;&gt;#microsoft&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bbc.com/news/health-65709834&#34;&gt;New superbug-killing antibiotic discovered using AI - BBC News&lt;/a&gt; &lt;sub&gt;(bbc.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36071675&#34;&gt;💬 discussion&lt;/a&gt;] - Scientists have used artificial intelligence (AI) to discover a new antibiotic that can kill a deadly species of superbug. { &lt;a href=&#34;https://perprompt.com/tags/science&#34;&gt;#science&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380&#34;&gt;How AI Is Catapulting Nvidia Toward the $1 Trillion Club - WSJ&lt;/a&gt; &lt;sub&gt;(wsj.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36083093&#34;&gt;💬 discussion&lt;/a&gt;] - { &lt;a href=&#34;https://perprompt.com/tags/nvidia&#34;&gt;#nvidia&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/stock&#34;&gt;#stock&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/imartinez/privateGPT&#34;&gt;GitHub - imartinez/privateGPT: Interact privately with your documents using the power of GPT, 100% privately, no data leaks&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36024503&#34;&gt;💬 discussion&lt;/a&gt;] - Interact privately with your documents using the power of GPT, 100% privately, no data leaks { &lt;a href=&#34;https://perprompt.com/tags/privacy&#34;&gt;#privacy&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/facebookresearch/fairseq&#34;&gt;GitHub - facebookresearch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36034211&#34;&gt;💬 discussion&lt;/a&gt;] - Facebook AI Research Sequence-to-Sequence Toolkit written in Python. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/python&#34;&gt;#python&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/csunny/DB-GPT&#34;&gt;GitHub - csunny/DB-GPT: Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36038815&#34;&gt;💬 discussion&lt;/a&gt;] - Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security { &lt;a href=&#34;https://perprompt.com/tags/local&#34;&gt;#local&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/database&#34;&gt;#database&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/privacy&#34;&gt;#privacy&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/EniasCailliau/GirlfriendGPT&#34;&gt;GitHub - EniasCailliau/GirlfriendGPT: Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36041832&#34;&gt;💬 discussion&lt;/a&gt;] - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0 { &lt;a href=&#34;https://perprompt.com/tags/companion&#34;&gt;#companion&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://helphub.commandbar.com/&#34;&gt;HelpHub by CommandBar&lt;/a&gt; &lt;sub&gt;(helphub.commandbar.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36057074&#34;&gt;💬 discussion&lt;/a&gt;] - A GPT-Powered Chatbot For Any Site. Syncs with any public URL or your existing help center { &lt;a href=&#34;https://perprompt.com/tags/website&#34;&gt;#website&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ianarawjo/ChainForge&#34;&gt;GitHub - ianarawjo/ChainForge: An open-source visual programming environment for battle-testing prompts to LLMs.&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36056907&#34;&gt;💬 discussion&lt;/a&gt;] - An open-source visual programming environment for battle-testing prompts to LLMs. { &lt;a href=&#34;https://perprompt.com/tags/python&#34;&gt;#python&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/prompting&#34;&gt;#prompting&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pixian.ai/remove-image-backgrounds&#34;&gt;Remove Background from Image, Free HD, No Signup - Pixian.AI&lt;/a&gt; &lt;sub&gt;(pixian.ai)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36064639&#34;&gt;💬 discussion&lt;/a&gt;] -  Image background removal without annoying subscriptions { &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://agentgpt.reworkd.ai/&#34;&gt;AgentGPT&lt;/a&gt; &lt;sub&gt;(agentgpt.reworkd.ai)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36079382&#34;&gt;💬 discussion&lt;/a&gt;] - AgentGPT allows you to configure and deploy Autonomous AI agents. Name your custom AI and have it embark on any goal imaginable. It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀 { &lt;a href=&#34;https://perprompt.com/tags/agentgpt&#34;&gt;#agentgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://clipdrop.co/&#34;&gt;Create stunning visuals in seconds with AI.&lt;/a&gt; &lt;sub&gt;(clipdrop.co)&lt;/sub&gt;
+ - Remove background, cleanup pictures, upscaling, Stable diffusion and more… { &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/&#34;&gt;AI boom could expose investors’ natural stupidity | Reuters&lt;/a&gt; &lt;sub&gt;(reuters.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36022768&#34;&gt;💬 discussion&lt;/a&gt;] - Investors would be mad to ignore AI&amp;rsquo;s spectacular results, but when it comes to broader applications, they should tread carefully, columnist Felix Martin writes. { &lt;a href=&#34;https://perprompt.com/tags/investing&#34;&gt;#investing&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-023-01612-x&#34;&gt;For chemists, the AI revolution has yet to happen&lt;/a&gt; &lt;sub&gt;(nature.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36024901&#34;&gt;💬 discussion&lt;/a&gt;] - Machine-learning systems in chemistry need accurate and accessible training data. Until they get it, they won’t achieve their potential. { &lt;a href=&#34;https://perprompt.com/tags/chemistry&#34;&gt;#chemistry&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1yZRNt25Wdo&#34;&gt;🎬 watch video&lt;/a&gt; | [&lt;a href=&#34;https://www.summarize.tech/www.youtube.com/watch?v=1yZRNt25Wdo&#34;&gt;📝 text-summary&lt;/a&gt;] &lt;sub&gt;(youtube.com)&lt;/sub&gt;
+ - Apple-1 ELIZA chatbot vs. ChatGPT { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/eliza&#34;&gt;#eliza&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4H_iWpWG_c0&#34;&gt;🎬 watch video&lt;/a&gt; | [&lt;a href=&#34;https://www.summarize.tech/www.youtube.com/watch?v=4H_iWpWG_c0&#34;&gt;📝 text-summary&lt;/a&gt;] &lt;sub&gt;(youtube.com)&lt;/sub&gt;
+ - Edward Snowden and Ben Goertzel on the AI Explosion and Data Privacy { &lt;a href=&#34;https://perprompt.com/tags/privacy&#34;&gt;#privacy&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.businessinsider.com/generative-ai-threat-to-saas-companies-software-as-a-service-2023-5&#34;&gt;Generative AI Is a Threat to SaaS Companies. Here&amp;rsquo;s Why.&lt;/a&gt; &lt;sub&gt;(businessinsider.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36034512&#34;&gt;💬 discussion&lt;/a&gt;] - Welcome to the final phase of software eating the world. SaaS companies beware, you&amp;rsquo;re on the menu this time. { &lt;a href=&#34;https://perprompt.com/tags/saas&#34;&gt;#saas&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/disruption&#34;&gt;#disruption&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@fergal.reid/why-are-so-many-giants-of-ai-getting-gpts-so-badly-wrong-f8dadfac4f61&#34;&gt;Why are so many giants of AI getting GPTs so badly wrong? | by Fergal Reid | May, 2023 | Medium&lt;/a&gt; &lt;sub&gt;(medium.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36034941&#34;&gt;💬 discussion&lt;/a&gt;] - The underestimating I’m seeing doesn’t reassure me about the AI Safety debate at all; if so many experts are getting it so wrong today, this isn’t encouraging. { &lt;a href=&#34;https://perprompt.com/tags/opinion&#34;&gt;#opinion&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/&#34;&gt;How Rogue AIs may Arise - Yoshua Bengio&lt;/a&gt; &lt;sub&gt;(yoshuabengio.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36042126&#34;&gt;💬 discussion&lt;/a&gt;] - Although highly dangerous AI systems from which we would lose control do not currently exist, recent advances in the capabilities of generative AI such as large language models (LLMs) have raised concerns: human brains are biological machines and we have made great progress in understanding and demonstrating principles that can give rise to several aspects of human intelligence, such as learning intuitive knowledge from examples and manipulating language skillfully. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/rogue&#34;&gt;#rogue&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.oneusefulthing.org/p/it-is-starting-to-get-strange&#34;&gt;It is starting to get strange. - by Ethan Mollick&lt;/a&gt; &lt;sub&gt;(oneusefulthing.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36047187&#34;&gt;💬 discussion&lt;/a&gt;] - Let&amp;rsquo;s talk about ChatGPT with Code Interpreter &amp;amp; Microsoft Copilot { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/copilot&#34;&gt;#copilot&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/scottbelsky/status/1660992735040663553&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Generative Fill, a new superpower integrated throughout Photoshop, launching in beta today. { &lt;a href=&#34;https://perprompt.com/tags/adobe&#34;&gt;#adobe&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/firefly&#34;&gt;#firefly&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.indiehackers.com/post/how-a-college-student-reached-64-000-mo-in-6-months-by-being-an-ai-first-mover-ba7981f6e1&#34;&gt;How a college student reached $64,000/mo in 6 months by being an AI first mover&lt;/a&gt; &lt;sub&gt;(indiehackers.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36059601&#34;&gt;💬 discussion&lt;/a&gt;] - Just a few months ago Yasser Elsaid was in his 4th year of college, interning at FAANG companies like Meta and Tesla. Then he placed his side hustle in front of the tidal wave that is OpenAI&amp;rsquo;s ChatGPT. { &lt;a href=&#34;https://perprompt.com/tags/side-hustle&#34;&gt;#side-hustle&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/&#34;&gt;How To Finetune GPT Like Large Language Models on a Custom Dataset - Lightning AI&lt;/a&gt; &lt;sub&gt;(lightning.ai)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36068850&#34;&gt;💬 discussion&lt;/a&gt;] - Learn how to fine-tune large language models (LLMs) on a custom dataset. We will be using Lit-Parrot, a nanoGPT based implementation of the GPT-NeoX model that supports – StableLM, Pythia, and RedPajama-INCITE model weights. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/custom&#34;&gt;#custom&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.cohere.com/docs/llmu&#34;&gt;Welcome to LLM University!&lt;/a&gt; &lt;sub&gt;(docs.cohere.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36070090&#34;&gt;💬 discussion&lt;/a&gt;] - Our comprehensive curriculum aims to give you a rock-solid foundation in NLP, equipping you with the skills needed to develop your own applications. Whether you want to learn semantic search, generation, classification, embeddings, or any other NLP technique, this is the place for you! We cater to learners from all backgrounds, covering everything from the basics to the most advanced topics in large language models (LLMs), ensuring you can harness the full potential of LLMs. Plus, you&amp;rsquo;ll have the opportunity to work on hands-on exercises, allowing you to build and deploy your very own models. { &lt;a href=&#34;https://perprompt.com/tags/lllm&#34;&gt;#lllm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/learning&#34;&gt;#learning&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://a16z.com/2023/05/25/ai-canon/&#34;&gt;AI Canon | Andreessen Horowitz&lt;/a&gt; &lt;sub&gt;(a16z.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36072268&#34;&gt;💬 discussion&lt;/a&gt;] - Research in artificial intelligence is increasing at an exponential rate. It’s difficult for AI experts to keep up with everything new being published, and even harder for beginners to know where to start. So, in this post, we’re sharing a curated list of resources we’ve relied on to get smarter about modern AI. We call it the “AI Canon” because these papers, blog posts, courses, and guides have had an outsized impact on the field over the past several years. { &lt;a href=&#34;https://perprompt.com/tags/deep-dive&#34;&gt;#deep-dive&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gorilla.cs.berkeley.edu/&#34;&gt;Gorilla&lt;/a&gt; &lt;sub&gt;(gorilla.cs.berkeley.edu)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36073241&#34;&gt;💬 discussion&lt;/a&gt;] - 🦍 Gorilla: Large Language Model Connected with Massive APIs { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/api&#34;&gt;#api&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.pewresearch.org/short-reads/2023/05/24/a-majority-of-americans-have-heard-of-chatgpt-but-few-have-tried-it-themselves/&#34;&gt;Majority of Americans have heard of ChatGPT, but few have tried it | Pew Research Center&lt;/a&gt; &lt;sub&gt;(pewresearch.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36077466&#34;&gt;💬 discussion&lt;/a&gt;] - About six-in-ten U.S. adults (58%) are familiar with ChatGPT, though relatively few have tried it themselves, according to a Pew Research Center survey conducted in March. Among those who have tried ChatGPT, a majority report it has been at least somewhat useful. { &lt;a href=&#34;https://perprompt.com/tags/research&#34;&gt;#research&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ai4comm.media.mit.edu/&#34;&gt;MIT MAS.S68 | Generative AI for Constructive Communication&lt;/a&gt; &lt;sub&gt;(ai4comm.media.mit.edu)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36079180&#34;&gt;💬 discussion&lt;/a&gt;] - MIT Course: Generative AI for Constructive Communication { &lt;a href=&#34;https://perprompt.com/tags/mit&#34;&gt;#mit&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/course&#34;&gt;#course&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/DrJimFan/status/1662115266933972993&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36088693&#34;&gt;💬 discussion&lt;/a&gt;] - I’m excited to announce Voyager, the first lifelong learning agent that plays Minecraft purely in-context. Voyager continuously improves itself by writing, refining, committing, and retrieving &lt;em&gt;code&lt;/em&gt; from a skill library. { &lt;a href=&#34;https://perprompt.com/tags/minecraft&#34;&gt;#minecraft&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/game&#34;&gt;#game&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about&#34;&gt;What Neeva&amp;rsquo;s quiet exit tells us about the future of AI startups&lt;/a&gt; &lt;sub&gt;(supervised.news)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36089055&#34;&gt;💬 discussion&lt;/a&gt;] - Snowflake picked up serious star power in its acquihire of Neeva as it looks to break into machine learning. We&amp;rsquo;ll see a lot more of this. { &lt;a href=&#34;https://perprompt.com/tags/acquisition&#34;&gt;#acquisition&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://bootcamp.uxdesign.cc/you-can-now-swap-face-instantly-with-midjourney-and-this-bot-84ef028ddcad&#34;&gt;You Can Now Change Faces On An Image with Midjourney! | by Christie C. | May, 2023 | Bootcamp&lt;/a&gt; &lt;sub&gt;(bootcamp.uxdesign.cc)&lt;/sub&gt;
+ - Create A Personalized Portrait with InsightFace { &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/guide&#34;&gt;#guide&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simonwillison.net/2023/May/27/lawyer-chatgpt/&#34;&gt;Lawyer cites fake cases invented by ChatGPT, judge is not amused&lt;/a&gt; &lt;sub&gt;(simonwillison.net)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36097900&#34;&gt;💬 discussion&lt;/a&gt;] - A lawyer asked ChatGPT for examples of cases that supported an argument they were trying to make. ChatGPT, as it often does, hallucinated wildly—it invented several supporting cases out of thin air. { &lt;a href=&#34;https://perprompt.com/tags/lawyer&#34;&gt;#lawyer&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/hallucinate&#34;&gt;#hallucinate&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm&#34;&gt;All the Hard Stuff Nobody Talks About when Building Products with LLMs | Honeycomb&lt;/a&gt; &lt;sub&gt;(honeycomb.io)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36096811&#34;&gt;💬 discussion&lt;/a&gt;] - Here’s my elaboration of all the challenges we faced while building Query Assistant. Not all of them will apply to your use case, but if you want to build product features with LLMs, hopefully this gives you a glimpse into what you’ll inevitably experience. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ilib.com/ai-websites&#34;&gt;Most Popular AI Websites (Sorted by Monthly Traffic from High to Low)&lt;/a&gt; &lt;sub&gt;(ilib.com)&lt;/sub&gt;
+ - The rapid pace of innovation in the AI field can be exhausting, and that’s why we created a list of the most visited AI websites. { &lt;a href=&#34;https://perprompt.com/tags/ranking&#34;&gt;#ranking&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/traffic&#34;&gt;#traffic&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://daily.jstor.org/we-got-social-media-wrong-can-we-get-ai-right/&#34;&gt;We Got Social Media Wrong. Can We Get AI Right? - JSTOR Daily&lt;/a&gt; &lt;sub&gt;(daily.jstor.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36078082&#34;&gt;💬 discussion&lt;/a&gt;] - How to be agents who use new AI tools, rather than subjects manipulated by them. { &lt;a href=&#34;https://perprompt.com/tags/opinion&#34;&gt;#opinion&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture&#34;&gt;Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture - Artisana&lt;/a&gt; &lt;sub&gt;(artisana.ai)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36053662&#34;&gt;💬 discussion&lt;/a&gt;] - Meta&amp;rsquo;s research team unveils an innovative AI model architecture, capable of generating more than 1 million tokens across multiple formats and exceeding the capabilities of the existing Transformer architecture behind models like GPT-4. { &lt;a href=&#34;https://perprompt.com/tags/meta&#34;&gt;#meta&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/scaling&#34;&gt;#scaling&lt;/a&gt;
+ }&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Week 20 - 2023</title>
       <link>https://perprompt.com/posts/w20-2023/</link>
