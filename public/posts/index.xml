@@ -6,7 +6,106 @@
     <description>Recent content in Posts on Per Prompt - Weekly LLV, GPT, AI Digests</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 22 - 2023</title>
+      <link>https://perprompt.com/posts/w22-2023/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://perprompt.com/posts/w22-2023/</guid>
+      <description>deep-fake face swap two faces, photo-realistic news Wrestlers detained in Delhi: AI image of &amp;lsquo;smiling&amp;rsquo; Vinesh &amp;amp; Sangeeta Phogat viral - Alt News (altnews.in) | [💬 discussion] - Hence, a selfie taken by wrestlers Vinesh Phogat, Sangeeta Phogat and others in a police van while being taken away for detention has been edited using an Artificial Intelligence app to show that the wrestlers were smiling. The narrative was grossly manipulated to show that the protest was just a propaganda tactic.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://perprompt.com/img/w22-2023-perprompt.png&#34;  alt=&#34;deep-fake face swap two faces, photo-realistic&#34;   style=&#34;border-radius: 7px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;deep-fake face swap two faces, photo-realistic&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/&#34;&gt;Wrestlers detained in Delhi: AI image of &amp;lsquo;smiling&amp;rsquo; Vinesh &amp;amp; Sangeeta Phogat viral - Alt News&lt;/a&gt; &lt;sub&gt;(altnews.in)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36113551&#34;&gt;💬 discussion&lt;/a&gt;] - Hence, a selfie taken by wrestlers Vinesh Phogat, Sangeeta Phogat and others in a police van while being taken away for detention has been edited using an Artificial Intelligence app to show that the wrestlers were smiling. The narrative was grossly manipulated to show that the protest was just a propaganda tactic. { &lt;a href=&#34;https://perprompt.com/tags/fake&#34;&gt;#fake&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production&#34;&gt;Nvidia Unveils DGX GH200 Supercomputer, Grace Hopper Superchips in Production | Tom&amp;rsquo;s Hardware&lt;/a&gt; &lt;sub&gt;(tomshardware.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36116430&#34;&gt;💬 discussion&lt;/a&gt;] - Nvidia’s new supercomputing silicon fuels the fires of AI. { &lt;a href=&#34;https://perprompt.com/tags/nvidia&#34;&gt;#nvidia&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/&#34;&gt;Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented” | Ars Technica&lt;/a&gt; &lt;sub&gt;(arstechnica.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36130354&#34;&gt;💬 discussion&lt;/a&gt;] - Judge weighs punishment for lawyer who didn&amp;rsquo;t bother to verify ChatGPT output. { &lt;a href=&#34;https://perprompt.com/tags/lawyer&#34;&gt;#lawyer&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/hallucination&#34;&gt;#hallucination&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/&#34;&gt;Japan Goes All In: Copyright Doesn&amp;rsquo;t Apply To AI Training&lt;/a&gt; &lt;sub&gt;(technomancers.ai)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36144241&#34;&gt;💬 discussion&lt;/a&gt;] - Keiko Nagaoka, Japanese Minister of Education, Culture, Sports, Science, and Technology, confirmed the bold stance to local meeting, saying that Japan’s laws won’t protect copyrighted materials used in AI datasets. { &lt;a href=&#34;https://perprompt.com/tags/japan&#34;&gt;#japan&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/copyright&#34;&gt;#copyright&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/s0md3v/roop&#34;&gt;GitHub - s0md3v/roop: one-click deepfake (face swap)&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36115283&#34;&gt;💬 discussion&lt;/a&gt;] - one-click deepfake (face swap) { &lt;a href=&#34;https://perprompt.com/tags/python&#34;&gt;#python&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/deepfake&#34;&gt;#deepfake&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pypi.org/project/cost-of-code/&#34;&gt;cost-of-code · PyPI&lt;/a&gt; &lt;sub&gt;(pypi.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36117846&#34;&gt;💬 discussion&lt;/a&gt;] - How much would it have cost if GPT-4 had written your code? { &lt;a href=&#34;https://perprompt.com/tags/python&#34;&gt;#python&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/coding&#34;&gt;#coding&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stonks.news/gpt&#34;&gt;StonksGPT - Stonks News&lt;/a&gt; &lt;sub&gt;(stonks.news)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36151225&#34;&gt;💬 discussion&lt;/a&gt;] - A Natural Language search tool for Stocks and Finance data { &lt;a href=&#34;https://perprompt.com/tags/stock&#34;&gt;#stock&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://skybox.blockadelabs.com/&#34;&gt;Skybox AI&lt;/a&gt; &lt;sub&gt;(skybox.blockadelabs.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36166511&#34;&gt;💬 discussion&lt;/a&gt;] - Use AI to generate 3D worlds { &lt;a href=&#34;https://perprompt.com/tags/3d&#34;&gt;#3d&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ilib.com/ai-websites&#34;&gt;Most Popular AI Websites (Sorted by Monthly Traffic from High to Low)&lt;/a&gt; &lt;sub&gt;(ilib.com)&lt;/sub&gt;
+ - The rapid pace of innovation in the AI field can be exhausting, and that’s why we created a list of the most visited AI websites. { &lt;a href=&#34;https://perprompt.com/tags/ranking&#34;&gt;#ranking&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/traffic&#34;&gt;#traffic&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reforge.com/blog/ai-products-arms-race&#34;&gt;How to Build AI Products People Want — Reforge&lt;/a&gt; &lt;sub&gt;(reforge.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36113534&#34;&gt;💬 discussion&lt;/a&gt;] - Winning the AI Products Arms Race { &lt;a href=&#34;https://perprompt.com/tags/product&#34;&gt;#product&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://methexis.substack.com/p/production-ai-systems-are-really&#34;&gt;Production AI systems are really hard - by Kevin Fischer&lt;/a&gt; &lt;sub&gt;(methexis.substack.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36111596&#34;&gt;💬 discussion&lt;/a&gt;] - No, AGI isn&amp;rsquo;t going to take over every social system when GPT5 comes out { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/gpt&#34;&gt;#gpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.animalz.co/blog/seo-and-chatgpt/&#34;&gt;The Future of SEO in a Post-ChatGPT World - Animalz&lt;/a&gt; &lt;sub&gt;(animalz.co)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36119124&#34;&gt;💬 discussion&lt;/a&gt;] - SEO is the growth engine that powers many companies, so it’s worth paying particular attention to any new technology that might change the rules of search. While SEO isn’t dying, it is undergoing substantial changes, accelerated by generative AI, and it’s worth hazarding a few educated guesses about what it might look like on the other side.  { &lt;a href=&#34;https://perprompt.com/tags/seo&#34;&gt;#seo&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/search&#34;&gt;#search&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.safe.ai/statement-on-ai-risk&#34;&gt;Statement on AI Risk | CAIS&lt;/a&gt; &lt;sub&gt;(safe.ai)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36123082&#34;&gt;💬 discussion&lt;/a&gt;] - AI experts and public figures express their concern about AI risk. { &lt;a href=&#34;https://perprompt.com/tags/risk&#34;&gt;#risk&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/FranxYao/chain-of-thought-hub&#34;&gt;GitHub - FranxYao/chain-of-thought-hub: Benchmarking large language models&amp;rsquo; complex reasoning ability with chain-of-thought prompting&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36131450&#34;&gt;💬 discussion&lt;/a&gt;] - Benchmarking large language models&amp;rsquo; complex reasoning ability with chain-of-thought prompting { &lt;a href=&#34;https://perprompt.com/tags/prompting&#34;&gt;#prompting&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/benchmarking&#34;&gt;#benchmarking&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZESJfjwxLjk&#34;&gt;🎬 watch video&lt;/a&gt; | [&lt;a href=&#34;https://www.summarize.tech/www.youtube.com/watch?v=ZESJfjwxLjk&#34;&gt;📝 text-summary&lt;/a&gt;] &lt;sub&gt;(youtube.com)&lt;/sub&gt;
+ - Introducing, Magma&amp;rsquo;s AI Assistant | Beta Release { &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aisnakeoil.substack.com/p/is-avoiding-extinction-from-ai-really&#34;&gt;Is Avoiding Extinction from AI Really an Urgent Priority? &lt;/a&gt; &lt;sub&gt;(aisnakeoil.substack.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36139852&#34;&gt;💬 discussion&lt;/a&gt;] - The history of technology suggests that the greatest risks come not from the tech, but from the people who control it { &lt;a href=&#34;https://perprompt.com/tags/risk&#34;&gt;#risk&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://humanloop.com/blog/openai-plans&#34;&gt;OpenAI&amp;rsquo;s plans according to Sam Altman&lt;/a&gt; &lt;sub&gt;(humanloop.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36141544&#34;&gt;💬 discussion&lt;/a&gt;] - Last week I had the privilege to sit down with Sam Altman and 20 other developers to discuss OpenAI’s APIs and their product plans. Sam was remarkably open. The discussion touched on practical developer issues as well as bigger-picture questions related to OpenAI’s mission and the societal impact of AI. Here are the key takeaways: { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/interview&#34;&gt;#interview&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Thom_Wolf/status/1663986216771936263&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36145185&#34;&gt;💬 discussion&lt;/a&gt;] - The license of the Falcon 40B model has just been changed to… Apache-2 which means that this model is now free for any usage including commercial use (and same for the 7B) 🎉 { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/commercial&#34;&gt;#commercial&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/AndrewYNg/status/1663984377918001153&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - Thrilled to announce: 3 new Generative AI courses! { &lt;a href=&#34;https://perprompt.com/tags/learning&#34;&gt;#learning&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nber.org/digest/measuring-productivity-impact-generative-ai&#34;&gt;Measuring the Productivity Impact of Generative AI | NBER&lt;/a&gt; &lt;sub&gt;(nber.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36152510&#34;&gt;💬 discussion&lt;/a&gt;] { &lt;a href=&#34;https://perprompt.com/tags/productivity&#34;&gt;#productivity&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://madewithml.com/&#34;&gt;Home - Made With ML&lt;/a&gt; &lt;sub&gt;(madewithml.com)&lt;/sub&gt;
+ - Learn the foundations of machine learning through intuitive explanations, clean code and visualizations. { &lt;a href=&#34;https://perprompt.com/tags/learning&#34;&gt;#learning&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/aakashg0/status/1664836865185452038&#34;&gt;🐦 view tweet&lt;/a&gt; &lt;sub&gt;(twitter.com)&lt;/sub&gt;
+ - What an insane week in AI 🤯 { &lt;a href=&#34;https://perprompt.com/tags/update&#34;&gt;#update&lt;/a&gt;
+ }&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Week 21 - 2023</title>
       <link>https://perprompt.com/posts/w21-2023/</link>
