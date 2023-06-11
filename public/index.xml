@@ -6,7 +6,123 @@
     <description>Recent content in Per Prompt on Per Prompt - Weekly LLV, GPT, AI Digests</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 23 - 2023</title>
+      <link>https://perprompt.com/posts/w23-2023/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://perprompt.com/posts/w23-2023/</guid>
+      <description>nanobots living in a community on a microchip news Scientists claim over 99 percent identification of ChatGPT • The Register (theregister.com) | [💬 discussion] - Boffins and machines write very differently – and it&amp;rsquo;s easy to tell { #detection }
+tool GitHub - StanGirard/quivr: Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it (github.com) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it { #privacy #chatgpt }</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://perprompt.com/img/w23-2023-perprompt.png&#34;  alt=&#34;nanobots living in a community on a microchip&#34;   style=&#34;border-radius: 7px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;nanobots living in a community on a microchip&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theregister.com/2023/06/08/scientists_ai_recognition/&#34;&gt;Scientists claim over 99 percent identification of ChatGPT • The Register&lt;/a&gt; &lt;sub&gt;(theregister.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36241089&#34;&gt;💬 discussion&lt;/a&gt;] - Boffins and machines write very differently – and it&amp;rsquo;s easy to tell { &lt;a href=&#34;https://perprompt.com/tags/detection&#34;&gt;#detection&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/StanGirard/quivr&#34;&gt;GitHub - StanGirard/quivr: Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it { &lt;a href=&#34;https://perprompt.com/tags/privacy&#34;&gt;#privacy&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.clonedub.com/&#34;&gt;CloneDub&lt;/a&gt; &lt;sub&gt;(clonedub.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36187610&#34;&gt;💬 discussion&lt;/a&gt;] - Convert audio into other languages using the same voices { &lt;a href=&#34;https://perprompt.com/tags/audio&#34;&gt;#audio&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/translation&#34;&gt;#translation&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ggml.ai/&#34;&gt;ggml.ai&lt;/a&gt; &lt;sub&gt;(ggml.ai)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36215651&#34;&gt;💬 discussion&lt;/a&gt;] - ggml is a tensor library for machine learning to enable large models and high performance on commodity hardware. It is used by llama.cpp and whisper.cpp { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/openchatai/OpenChat&#34;&gt;GitHub - openchatai/OpenChat: LLMs custom-chatbots console ⚡&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36223972&#34;&gt;💬 discussion&lt;/a&gt;] - LLMs custom-chatbots console ⚡ { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/custom&#34;&gt;#custom&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/BloopAI/bloop&#34;&gt;GitHub - BloopAI/bloop: bloop is a fast code search engine written in Rust.&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36260961&#34;&gt;💬 discussion&lt;/a&gt;] - bloop is a developer assistant that uses GPT-4 to answer questions about your codebase. The agent searches both your local and remote repositories with natural language, regex and filtered queries. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/coding&#34;&gt;#coding&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://theaireport.substack.com/p/ai-report-4-autogpt-and-open-source&#34;&gt;AI Report #4: AutoGPT And Open-source lags behind Part 2&lt;/a&gt; &lt;sub&gt;(theaireport.substack.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36186348&#34;&gt;💬 discussion&lt;/a&gt;] - At the time of this writing AutoGPT has 136k stars in GitHub while PyTorch has only 67k. A repository similar to AutoGPT called BabyAGI has racked up 14k stars as well. But nothing concrete has come out of either AutoGPT or BabyAGI, yet. { &lt;a href=&#34;https://perprompt.com/tags/autogpt&#34;&gt;#autogpt&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/oss&#34;&gt;#oss&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cloudskillsboost.google/paths/118&#34;&gt;Generative AI learning path | Google Cloud Skills Boost&lt;/a&gt; &lt;sub&gt;(cloudskillsboost.google)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36192195&#34;&gt;💬 discussion&lt;/a&gt;] - This learning path guides you through a curated collection of content on Generative AI products and technologies, from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud. { &lt;a href=&#34;https://perprompt.com/tags/learning&#34;&gt;#learning&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/course&#34;&gt;#course&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fry-ai.com/p/social-media-no-humans-allowed&#34;&gt;SOCIAL MEDIA FOR AI BOTS: “NO HUMANS ALLOWED”&lt;/a&gt; &lt;sub&gt;(fry-ai.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36189962&#34;&gt;💬 discussion&lt;/a&gt;] - Chirper.ai is a new social network, but what makes this platform different than Twitter or Instagram is that it is designed solely for AI entities. These AI characters, aptly named &amp;ldquo;Chirpers,&amp;rdquo; are programmed to simulate human-like interactions, engaging in conversations and forming relationships with one another on the platform. { &lt;a href=&#34;https://perprompt.com/tags/social-media&#34;&gt;#social-media&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/bots&#34;&gt;#bots&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2305.12050&#34;&gt;[2305.12050] CodeCompose: A Large-Scale Industrial Deployment of AI-assisted Code Authoring&lt;/a&gt; &lt;sub&gt;(arxiv.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36176584&#34;&gt;💬 discussion&lt;/a&gt;] - CodeCompose: A large-scale industrial deployment of AI-assisted code authoring { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/coding&#34;&gt;#coding&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/ChatGPT/comments/13z3rkx/the_ai_will_make_you_an_anime_in_real_time/&#34;&gt;Reddit - Dive into anything&lt;/a&gt; &lt;sub&gt;(reddit.com)&lt;/sub&gt;
+ - The AI will make You an Anime in Real Time { &lt;a href=&#34;https://perprompt.com/tags/anime&#34;&gt;#anime&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://platform.openai.com/docs/guides/gpt-best-practices&#34;&gt;OpenAI API&lt;/a&gt; &lt;sub&gt;(platform.openai.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36197291&#34;&gt;💬 discussion&lt;/a&gt;] - This guide shares strategies and tactics for getting better results from GPTs. The methods described here can sometimes be deployed in combination for greater effect. We encourage experimentation to find the methods that work best for you. { &lt;a href=&#34;https://perprompt.com/tags/guide&#34;&gt;#guide&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://openlsr.org/sail-7b&#34;&gt;SAIL-7b&lt;/a&gt; &lt;sub&gt;(openlsr.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36197913&#34;&gt;💬 discussion&lt;/a&gt;] - We develop a search engine-grounded large language model that generates language grounding on noisy search results, improving both the transparency and robustness of LLMs with distracting information.  { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an&#34;&gt;Moderation Strike: Stack Overflow, Inc. cannot consistently ignore, mistreat, and malign its volunteers - Meta Stack Exchange&lt;/a&gt; &lt;sub&gt;(meta.stackexchange.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36192497&#34;&gt;💬 discussion&lt;/a&gt;] { &lt;a href=&#34;https://perprompt.com/tags/strike&#34;&gt;#strike&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-023-01833-0&#34;&gt;Six tips for better coding with ChatGPT&lt;/a&gt; &lt;sub&gt;(nature.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36211250&#34;&gt;💬 discussion&lt;/a&gt;] - Although powerful, the tools are not as intelligent as they seem. Use them with caution, computer scientists warn. { &lt;a href=&#34;https://perprompt.com/tags/coding&#34;&gt;#coding&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/&#34;&gt;Redditor creates working anime QR codes using Stable Diffusion | Ars Technica&lt;/a&gt; &lt;sub&gt;(arstechnica.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36218281&#34;&gt;💬 discussion&lt;/a&gt;] - Image-synthesis technique relies upon QR&amp;rsquo;s natural error-correction properties. { &lt;a href=&#34;https://perprompt.com/tags/anime&#34;&gt;#anime&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/qr-code&#34;&gt;#qr-code&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://seekingalpha.com/article/4609485-ai-nvidia-is-taking-all-the-money&#34;&gt;AI: Nvidia Is Taking All The Money (NASDAQ:NVDA) | Seeking Alpha&lt;/a&gt; &lt;sub&gt;(seekingalpha.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36214749&#34;&gt;💬 discussion&lt;/a&gt;] - Nvidia Corporation spent nearly two decades working on hardware and software to be ready for AI’s big moment in 2023. It&amp;rsquo;s no accident they are at the center of it all. { &lt;a href=&#34;https://perprompt.com/tags/nvidia&#34;&gt;#nvidia&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/&#34;&gt;Is AI Killing the Stock Industry? A Data Perspective. – Stock Performer&lt;/a&gt; &lt;sub&gt;(stockperformer.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36223307&#34;&gt;💬 discussion&lt;/a&gt;] - Today, a new perceived threat is on the rise: AI-generated imagery. And again, stock producers are asking themselves: Is the stock industry going to die? Should I quit photography or stock altogether? Or should I go all-in on producing AI images? Any such business decision should always be driven by data. Stock producers are not in the art industry, their goal is to satisfy market demands for visual media. In this blog post, we will attempt to answer some of these questions from a data perspective. { &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/risk&#34;&gt;#risk&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/&#34;&gt;Bard updates: More accurate responses, export to Google Sheets&lt;/a&gt; &lt;sub&gt;(blog.google)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36229782&#34;&gt;💬 discussion&lt;/a&gt;] - Bard is improving at mathematical tasks, coding questions and string manipulation through a new technique called implicit code execution. Plus, it has a new export action to Google Sheets. { &lt;a href=&#34;https://perprompt.com/tags/bard&#34;&gt;#bard&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s41586-023-06004-9&#34;&gt;Faster sorting algorithms discovered using deep reinforcement learning | Nature&lt;/a&gt; &lt;sub&gt;(nature.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36228125&#34;&gt;💬 discussion&lt;/a&gt;] - AlphaDev discovered small sorting algorithms from scratch that outperformed previously known human benchmarks. { &lt;a href=&#34;https://perprompt.com/tags/algorithm&#34;&gt;#algorithm&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/benchmarking&#34;&gt;#benchmarking&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://simonwillison.net/2023/Jun/8/gpt-tokenizers/&#34;&gt;Understanding GPT tokenizers&lt;/a&gt; &lt;sub&gt;(simonwillison.net)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36248633&#34;&gt;💬 discussion&lt;/a&gt;] - Large language models such as GPT-3/4, LLaMA and PaLM work in terms of tokens. They take text, convert it into tokens (integers), then predict which tokens should come next. { &lt;a href=&#34;https://perprompt.com/tags/token&#34;&gt;#token&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor&#34;&gt;Licensing is neither feasible nor effective for addressing AI risks&lt;/a&gt; &lt;sub&gt;(aisnakeoil.substack.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36270303&#34;&gt;💬 discussion&lt;/a&gt;] - Non-proliferation only benefits incumbents { &lt;a href=&#34;https://perprompt.com/tags/license&#34;&gt;#license&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at&#34;&gt;LLMs are good at playing you - lcamtuf’s thing&lt;/a&gt; &lt;sub&gt;(lcamtuf.substack.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36265658&#34;&gt;💬 discussion&lt;/a&gt;] - Large language models (LLMs) are eerily human-like: in casual conversations, they mimic humans with near-perfect fidelity. Their language capabilities hold promise for some fields — and spell trouble for others. But above all, the models’ apparent intellect makes us ponder the fate of humanity. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ai.honu.io/papers/musicgen/&#34;&gt;MusicGen: Simple and Controllable Music Generation&lt;/a&gt; &lt;sub&gt;(ai.honu.io)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36271926&#34;&gt;💬 discussion&lt;/a&gt;] - We tackle the task of conditional music generation. We introduce MusicGen, a single Language Model (LM) that operates over several streams of compressed discrete music representation, i.e., tokens. Unlike prior work, MusicGen is comprised of a single-stage transformer LM together with efficient token interleaving patterns, which eliminates the need for cascading several models, e.g., hierarchically or upsampling. { &lt;a href=&#34;https://perprompt.com/tags/music&#34;&gt;#music&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theregister.com/2023/06/09/github_copilot_lawsuit/&#34;&gt;GitHub accused of varying Copilot output to avoid copyright • The Register&lt;/a&gt; &lt;sub&gt;(theregister.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36270427&#34;&gt;💬 discussion&lt;/a&gt;] - Copilot code-cloning case clarifies claims { &lt;a href=&#34;https://perprompt.com/tags/copilot&#34;&gt;#copilot&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/copyright&#34;&gt;#copyright&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare&#34;&gt;AI Browser Extensions Are a Security Nightmare&lt;/a&gt; &lt;sub&gt;(kolide.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36243951&#34;&gt;💬 discussion&lt;/a&gt;] - The security risks posed by these AI browser extensions also run the gamut: some are straightforward malware just waiting to siphon your data, some are fly-by-night operations with copy + pasted privacy policies, and others are the AI experiments of respected and recognizable brands. { &lt;a href=&#34;https://perprompt.com/tags/security&#34;&gt;#security&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/prompting&#34;&gt;#prompting&lt;/a&gt;
+ }&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Week 22 - 2023</title>
       <link>https://perprompt.com/posts/w22-2023/</link>
