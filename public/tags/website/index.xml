@@ -6,7 +6,101 @@
     <description>Recent content in website on Per Prompt - Weekly LLV, GPT, AI Digests</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://perprompt.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 24 - 2023</title>
+      <link>https://perprompt.com/posts/w24-2023/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://perprompt.com/posts/w24-2023/</guid>
+      <description>news Introducing Vercel&amp;rsquo;s AI Accelerator – Vercel (vercel.com) | [💬 discussion] - A 6 week program with over $850k in credits from Vercel and top AI platforms. { #credit }
+AI-powered church service in Germany draws a large crowd | Ars Technica (arstechnica.com) | [💬 discussion] - &amp;ldquo;I was positively surprised how well it worked,&amp;rdquo; said one attendee. { #church }
+Microsoft Offers Powerful OpenAI Technology to US Government Cloud Customers - Bloomberg (bloomberg.</description>
+      <content>&lt;h1 id=&#34;news&#34;&gt;news&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://vercel.com/blog/vercel-ai-accelerator&#34;&gt;Introducing Vercel&amp;rsquo;s AI Accelerator – Vercel&lt;/a&gt; &lt;sub&gt;(vercel.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36327911&#34;&gt;💬 discussion&lt;/a&gt;] - A 6 week program with over $850k in credits from Vercel and top AI platforms. { &lt;a href=&#34;https://perprompt.com/tags/credit&#34;&gt;#credit&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arstechnica.com/information-technology/2023/06/chatgpt-takes-the-pulpit-ai-leads-experimental-church-service-in-germany/&#34;&gt;AI-powered church service in Germany draws a large crowd | Ars Technica&lt;/a&gt; &lt;sub&gt;(arstechnica.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36297251&#34;&gt;💬 discussion&lt;/a&gt;] - &amp;ldquo;I was positively surprised how well it worked,&amp;rdquo; said one attendee. { &lt;a href=&#34;https://perprompt.com/tags/church&#34;&gt;#church&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers&#34;&gt;Microsoft Offers Powerful OpenAI Technology to US Government Cloud Customers - Bloomberg&lt;/a&gt; &lt;sub&gt;(bloomberg.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36310619&#34;&gt;💬 discussion&lt;/a&gt;] - Microsoft Corp. will make it possible for users of its Azure Government cloud computing service, which include a variety of US agencies, to access artificial intelligence models from ChatGPT creator OpenAI. { &lt;a href=&#34;https://perprompt.com/tags/chatgpt&#34;&gt;#chatgpt&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/&#34;&gt;France&amp;rsquo;s Mistral AI blows in with a $113M seed round at a $260M valuation to take on OpenAI | TechCrunch&lt;/a&gt; &lt;sub&gt;(techcrunch.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36326706&#34;&gt;💬 discussion&lt;/a&gt;] - Mistral AI, based out of Paris, is co-founded by alums from Google’s DeepMind and Meta and will be focusing on open source solutions and targeting enterprises to create what CEO Arthur Mensch believes is currently the biggest challenge in the field: “To make AI useful.” It plans to release its first models for text-based generative AI in 2024. { &lt;a href=&#34;https://perprompt.com/tags/seed&#34;&gt;#seed&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bloomberg.com/news/articles/2023-06-14/biggest-losers-of-ai-boom-are-knowledge-workers-mckinsey-says&#34;&gt;Biggest Losers of AI Boom Are Knowledge Workers, McKinsey Says - Bloomberg&lt;/a&gt; &lt;sub&gt;(bloomberg.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36324942&#34;&gt;💬 discussion&lt;/a&gt;] - Could add the equivalent of $2.6 to $4.4 trillion annually. May add 0.6% in annual labor productivity growth for 20 years { &lt;a href=&#34;https://perprompt.com/tags/labor&#34;&gt;#labor&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.washingtonpost.com/technology/2023/06/14/eu-parliament-approves-ai-act/&#34;&gt;&lt;/a&gt; &lt;sub&gt;(washingtonpost.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36326420&#34;&gt;💬 discussion&lt;/a&gt;] { &lt;a href=&#34;https://perprompt.com/tags/regulation&#34;&gt;#regulation&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/eu&#34;&gt;#eu&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reuters.com/technology/google-one-ais-biggest-backers-warns-own-staff-about-chatbots-2023-06-15/&#34;&gt;Google, one of AI’s biggest backers, warns own staff about chatbots | Reuters&lt;/a&gt; &lt;sub&gt;(reuters.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36341188&#34;&gt;💬 discussion&lt;/a&gt;] - The Google parent has advised employees not to enter its confidential materials into AI chatbots, the people said and the company confirmed, citing long-standing policy on safeguarding information. { &lt;a href=&#34;https://perprompt.com/tags/risk&#34;&gt;#risk&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/privacy&#34;&gt;#privacy&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bbc.com/news/business-65906521&#34;&gt;The workers already replaced by artificial intelligence - BBC News&lt;/a&gt; &lt;sub&gt;(bbc.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36353351&#34;&gt;💬 discussion&lt;/a&gt;] - Until recently Dean Meadowcroft was a copywriter in a small marketing department. His duties included writing press releases, social media posts and other content for his company. { &lt;a href=&#34;https://perprompt.com/tags/jobs&#34;&gt;#jobs&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://venturebeat.com/ai/the-ai-feedback-loop-researchers-warn-of-model-collapse-as-ai-trains-on-ai-generated-content/&#34;&gt;The AI feedback loop: Researchers warn of &amp;lsquo;model collapse&amp;rsquo; as AI trains on AI-generated content | VentureBeat&lt;/a&gt; &lt;sub&gt;(venturebeat.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36368848&#34;&gt;💬 discussion&lt;/a&gt;] - The age of generative AI is here: only six months after OpenAI‘s ChatGPT burst onto the scene, as many as half the employees of some leading global companies are already using this type of technology in their workflows, and many other companies are rushing to offer new products with generative AI built in. { &lt;a href=&#34;https://perprompt.com/tags/llm&#34;&gt;#llm&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;tool&#34;&gt;tool&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://app.scribbler.so/&#34;&gt;Scribbler&lt;/a&gt; &lt;sub&gt;(app.scribbler.so)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36325812&#34;&gt;💬 discussion&lt;/a&gt;] - Podcast Summaries Using GPT { &lt;a href=&#34;https://perprompt.com/tags/summaries&#34;&gt;#summaries&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/podcast&#34;&gt;#podcast&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.framer.com/&#34;&gt;Framer â  Start your dream site with AI. Zero code, maximum speed.&lt;/a&gt; &lt;sub&gt;(framer.com)&lt;/sub&gt;
+ - Start your dream site with AI. Zero code, maximum speed. { &lt;a href=&#34;https://perprompt.com/tags/website&#34;&gt;#website&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/operand/agency&#34;&gt;GitHub - operand/agency: A fast and minimal actor model framework for building agent-integrated systems&lt;/a&gt; &lt;sub&gt;(github.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36326587&#34;&gt;💬 discussion&lt;/a&gt;] - A fast and minimal foundation for unifying human, AI, and other computing systems, in python { &lt;a href=&#34;https://perprompt.com/tags/python&#34;&gt;#python&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;h1 id=&#34;misc&#34;&gt;misc&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/us-news/2023/jun/14/ai-kidnapping-scam-senate-hearing-jennifer-destefano&#34;&gt;US mother gets call from ‘kidnapped daughter’ – but it’s really an AI scam | Arizona | The Guardian&lt;/a&gt; &lt;sub&gt;(theguardian.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36334085&#34;&gt;💬 discussion&lt;/a&gt;] - Jennifer DeStefano tells US Senate about dangers of artificial technology after receiving phone call from scammers sounding exactly like her daughter { &lt;a href=&#34;https://perprompt.com/tags/scam&#34;&gt;#scam&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.zdnet.com/article/gpt-4-generated-pitches-are-3x-more-likely-to-secure-funding-than-human-ones/&#34;&gt;GPT-4-generated pitches are 3x more likely to secure funding than human ones | ZDNET&lt;/a&gt; &lt;sub&gt;(zdnet.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36332196&#34;&gt;💬 discussion&lt;/a&gt;] - Want to secure a hefty investment for your business? You may want to use an AI chatbot. { &lt;a href=&#34;https://perprompt.com/tags/business&#34;&gt;#business&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stable-diffusion-art.com/video-to-video/&#34;&gt;Video to video with Stable Diffusion (step-by-step) - Stable Diffusion Art&lt;/a&gt; &lt;sub&gt;(stable-diffusion-art.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36288294&#34;&gt;💬 discussion&lt;/a&gt;] - Transforming videos to animation is never easier with Stable Diffusion. You will find step-by-step guides for 3 video-to-video techniques in this article. { &lt;a href=&#34;https://perprompt.com/tags/video&#34;&gt;#video&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/guide&#34;&gt;#guide&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doctorow.medium.com/the-ai-hype-bubble-is-the-new-crypto-hype-bubble-74e53028631e&#34;&gt;The AI hype bubble is the new crypto hype bubble | by Cory Doctorow | Medium&lt;/a&gt; &lt;sub&gt;(doctorow.medium.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36285790&#34;&gt;💬 discussion&lt;/a&gt;] - Someday, we’re gonna feel pretty silly about our autocomplete worship. { &lt;a href=&#34;https://perprompt.com/tags/hype&#34;&gt;#hype&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/opinion&#34;&gt;#opinion&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://snap-research.github.io/SnapFusion/&#34;&gt;SnapFusion&lt;/a&gt; &lt;sub&gt;(snap-research.github.io)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36304716&#34;&gt;💬 discussion&lt;/a&gt;] - Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds. { &lt;a href=&#34;https://perprompt.com/tags/image&#34;&gt;#image&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/text&#34;&gt;#text&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/mobile&#34;&gt;#mobile&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/&#34;&gt;&lt;/a&gt; &lt;sub&gt;(eetimes.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36310145&#34;&gt;💬 discussion&lt;/a&gt;] { &lt;a href=&#34;https://perprompt.com/tags/interview&#34;&gt;#interview&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.fastcompany.com/90908572/working-with-ai-tools-is-making-employees-lonely-and-prone-to-drinking-a-study-finds&#34;&gt;&lt;/a&gt; &lt;sub&gt;(fastcompany.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36307693&#34;&gt;💬 discussion&lt;/a&gt;] - The research comes at a time when AI is being alternately described as either the savior of the workplace, or the destroyer. { &lt;a href=&#34;https://perprompt.com/tags/research&#34;&gt;#research&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cyberdemon.org/2023/06/14/reddit-moat.html&#34;&gt;Reddit is OpenAI’s moat&lt;/a&gt; &lt;sub&gt;(cyberdemon.org)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36325958&#34;&gt;💬 discussion&lt;/a&gt;] - Much has been written about the Reddit boycott recently, but I have kind of a wild take. A lot of the analyses have examined the issue as if Reddit is an independent company preparing for an IPO. That is, they have examined Reddit’s attempts to capture its value as a training corpus or its attempts to show its users more ads. But what if we thought of Reddit as, functionally, subservient to OpenAI? { &lt;a href=&#34;https://perprompt.com/tags/reddit&#34;&gt;#reddit&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/moat&#34;&gt;#moat&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://yonom.substack.com/p/native-json-output-from-gpt-4&#34;&gt;Native JSON Output From GPT-4 - by Simon Farshid&lt;/a&gt; &lt;sub&gt;(yonom.substack.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36330972&#34;&gt;💬 discussion&lt;/a&gt;] - When integrating LLMs in your products, you often want to generate structured data, like JSONs. With the help of function calling (released June 13th 2023), this process has become much simpler!  { &lt;a href=&#34;https://perprompt.com/tags/gpt4&#34;&gt;#gpt4&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/json&#34;&gt;#json&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://inflecthealth.medium.com/im-an-er-doctor-here-s-how-i-m-already-using-chatgpt-to-help-treat-patients-a023615c65b6&#34;&gt;I’m an ER doctor. Here’s how I’m already using ChatGPT to help treat patients. | by Inflect Health | Jun, 2023 | Medium&lt;/a&gt; &lt;sub&gt;(inflecthealth.medium.com)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36332999&#34;&gt;💬 discussion&lt;/a&gt;] - There are many futuristic possibilities for how AI might transform healthcare. But it can help doctors do a better job in small, safe ways — right now. { &lt;a href=&#34;https://perprompt.com/tags/health&#34;&gt;#health&lt;/a&gt;
+ }&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and&#34;&gt;Meta&amp;rsquo;s Plan to Offer Free Commercial AI Models Puts Pressure on Google and OpenAI - Artisana&lt;/a&gt; &lt;sub&gt;(artisana.ai)&lt;/sub&gt;
+ | [&lt;a href=&#34;https://news.ycombinator.com/item?id=36360452&#34;&gt;💬 discussion&lt;/a&gt;] - Meta&amp;rsquo;s latest strategy to offer its AI models for free commercial use turns up the heat on OpenAI and Google and their closed-source AI business model. { &lt;a href=&#34;https://perprompt.com/tags/oss&#34;&gt;#oss&lt;/a&gt;
+ &lt;a href=&#34;https://perprompt.com/tags/meta&#34;&gt;#meta&lt;/a&gt;
+ }&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Week 21 - 2023</title>
       <link>https://perprompt.com/posts/w21-2023/</link>
